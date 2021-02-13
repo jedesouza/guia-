@@ -1,0 +1,209 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Animal_Planet_1996.svg/revision/latest/scale-to-width-down/340?cb=20181020185755"group-title="TV Aberta", Animal Planet 
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/22.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxbHzCt7ySw-ajljYimHHBZlaJ0GDus02O1A&usqp=CAU" group-title="Variedades", Animal Planet
+http://95.141.32.158:8081/looktvs/animalplanet/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHHSTCsoSRMsZpyeVHPH5jfjxW-I3Ztz5XwQ&s" group-title="TV Aberta", Viva
+http://95.141.32.158:8081/loadbalance/viva/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmYzMIadeNB1g_nssTI7bY46eaPEIp3V8omkK9F5TX_v4Us0E_rDS--1M&s=10"group-title="TV Aberta", BBB
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/2.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm4rufBzAirAtAEuq1tDUr7MYV2ccYsaB43roic6Sk_0XEUi5IkBnZFXU&s=10"group-title="TV Aberta",Globo
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/1.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRolqp6zeCFNUoQ3JQrPSaDRSrVLwPC_whALQ&usqp=CAU" group-title="TV Aberta", Globo Rj
+http://srvx.io:80/live/7885037935/fireurl.co/72025.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRolqp6zeCFNUoQ3JQrPSaDRSrVLwPC_whALQ&usqp=CAU" group-title="TV Aberta", Globo Rj
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="TV Aberta", SBT 
+http://158.58.173.44:8081/loadbalance/sbt/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="TV Aberta", SBT Interior SP
+https://5a1c76baf08c0.streamlock.net/sbtinterior/25twftddfvwdgb5oodon3nxdcrmj5qbo/chunklist_w291063918.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="TV Aberta", SBT - TV Jornal (PE)
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="TV Aberta", SBT - TV Cidade Verde - (PI)
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="TV Aberta", SBT - TV Difusora (MA)
+https://diulq15o39.zoeweb.tv/z437-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="TV Aberta", SBT - TV Serra Dourada - (GO)
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="TV Aberta", SBT Rede Massa (PR)
+https://cdn-radio-8465-1.ciclano.io:1443/radio-8465-1/radio-8465-1/playlist.m3u8
+
+#EXTINF:0 group-title="CANAIS ABERTOS" ,SBT 
+tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" ,SBT 
+http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/Z7oXHuV.png",SBT CARUARU HD
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/Z7oXHuV.png",SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8?IMDSFULL
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Variedades", SBT  SP
+https://5a1c76baf08c0.streamlock.net/sbtinterior/25twftddfvwdgb5oodon3nxdcrmj5qbo/chunklist_w291063918.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Variedades", SBT - TV 
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Variedades", SBT - TV 
+https://diulq15o39.zoeweb.tv/z437-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Variedades", SBT - TV 
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Variedades", SBT
+https://cdn-radio-8465-1.ciclano.io:1443/radio-8465-1/radio-8465-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="TV Aberta", RecordTV
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="TV Aberta", RecordTV Rio de Janeiro
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="TV Aberta", RecordTV Bahia
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="TV Aberta", RecordTV Brasília
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="TV Aberta", RecordTV Belo Horizonte
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="TV Aberta", RecordTV Pará
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="TV Aberta", RecordTV Manaus
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="TV Aberta", RecordTV Goiás
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="TV Aberta", RecordTV Rio Grande do Sul
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="TV Aberta", RecordTV Mato Grosso - TV Conquista
+http://tvconquistalrv.duckdns.org:8080/hls/aovivo.m3u8
+
+#EXTINF:0 group-title="CANAIS ABERTOS" ,RECORD  tvg-logo="https://i.imgur.com/BKNkpX0.png",RECORD
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/BKNkpX0.png",RECORD (2)
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/BKNkpX0.png",Record SP
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/BKNkpX0.png",Record SP HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-b.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/BKNkpX0.png",Record RJ
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-b.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/BKNkpX0.png",Record RJ HD
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8?IMDSFULL
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Variedades", RecordTV
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Variedades", RecordTV RJ
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Variedades", RecordTV 
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Variedades", RecordTV BR
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Variedades", RecordTV 
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Variedades", RecordTV 
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Variedades", RecordTV 
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Variedades", RecordTV 
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Variedades", RecordTV 
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Variedades", RecordTV 
+http://tvconquistalrv.duckdns.org:8080/hls/aovivo.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Variedades", Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Variedades", RedeTV
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="Variedades",  RedeTV
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png" group-title="Variedades", RedeTV
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="Variedades", RedeTV
+https://tna5.bozztv.com/sgc17/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Variedades", RedeTV! TV Arapuan HD (PB)
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Variedades", TV Pampa - RedeTV! RS
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Variedades", RedeTV! Tocantins
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Variedades", RedeTV! Rondônia
+https://tna5.bozztv.com/sgc17/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ImlYuVR7SUJKSVCxYMwMTsxx-ylgLBfSLw&usqp=CAU" group-title="TV Aberta", Rede tv
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/SRacoyI.png",Band SP (1)
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/SRacoyI.png",Band - RBA TV (PA)
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/ewpFvTh.png",REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w856431346.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/ewpFvTh.png",Rede Brasil DE
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/nK4Xjve.png",CAT TVE
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS ABERTOS" ,SUPER RÁDIO TUPI AM RJ
+http://cdn.rj.assocrj.com.br:80/live/tupi_estudio_video06/livestream.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS ABERTOS" ,TERCEIRO ANJO TV
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS ABERTOS" ,TV ASSEMBLEIA CE
+http://srv6.zoeweb.tv:1935/z404-live/stream/livestream.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/tgI8goc.png",REDE MINAS
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8?IMDSFULL
+
+#EXTINF:0 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/SlvJJn3.png",Rede TV PB
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan_all/playlist.m3u8?IMDSFULL
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQDE7n
