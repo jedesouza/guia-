@@ -1,0 +1,218 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHHSTCsoSRMsZpyeVHPH5jfjxW-I3Ztz5XwQ&s" group-title="TV Aberta", Viva
+http://95.141.32.158:8081/loadbalance/viva/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm4rufBzAirAtAEuq1tDUr7MYV2ccYsaB43roic6Sk_0XEUi5IkBnZFXU&s=10" group-title="TV Aberta",Globo
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/1.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia-2/images/b/b3/Rede_Globo_Logo_2014.png/revision/latest/scale-to-width-down/340?cb=20210106093440"
+group-title="TV Aberta", Globo Sp 
+http://srvx.io:80/live/7885037935/fireurl.co/72040.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRolqp6zeCFNUoQ3JQrPSaDRSrVLwPC_whALQ&usqp=CAU" group-title="TV Aberta", Globo Rj
+http://srvx.io:80/live/7885037935/fireurl.co/72025.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRolqp6zeCFNUoQ3JQrPSaDRSrVLwPC_whALQ&usqp=CAU" group-title="TV Aberta", Globo Rj
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="TV Aberta",SBT
+http://95.141.32.158:8081/loadbalance/sbt/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="TV Aberta", SBT 
+http://158.58.173.44:8081/loadbalance/sbt/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="TV Aberta", SBT Interior SP
+https://5a1c76baf08c0.streamlock.net/sbtinterior/25twftddfvwdgb5oodon3nxdcrmj5qbo/chunklist_w291063918.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="TV Aberta", SBT - TV Jornal (PE)
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="TV Aberta", SBT - TV Cidade Verde - (PI)
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="TV Aberta", SBT - TV Difusora (MA)
+https://diulq15o39.zoeweb.tv/z437-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="TV Aberta", SBT - TV Serra Dourada - (GO)
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="TV Aberta", SBT Rede Massa (PR)
+https://cdn-radio-8465-1.ciclano.io:1443/radio-8465-1/radio-8465-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="TV Aberta", RecordTV
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="TV Aberta", RecordTV Rio de Janeiro
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="TV Aberta", RecordTV Bahia
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="TV Aberta", RecordTV Brasília
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="TV Aberta", RecordTV Belo Horizonte
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="TV Aberta", RecordTV Pará
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="TV Aberta", RecordTV Manaus
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="TV Aberta", RecordTV Goiás
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="TV Aberta", RecordTV Rio Grande do Sul
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="TV Aberta", RecordTV Mato Grosso - TV Conquista
+http://tvconquistalrv.duckdns.org:8080/hls/aovivo.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmYzMIadeNB1g_nssTI7bY46eaPEIp3V8omkK9F5TX_v4Us0E_rDS--1M&s=10"group-title="BBB AO VIVO 2021", BBB
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/2.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmYzMIadeNB1g_nssTI7bY46eaPEIp3V8omkK9F5TX_v4Us0E_rDS--1M&s=10"group-title="BBB AO VIVO 2021",
+BBB 1 FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/89722.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEyruRM52x2TTJGTWv-cUhq7adG_nkHL2QbD03r16WjqBNqaIXqmibjQ&s=10"group-title="BBB AO VIVO 2021",
+BBB  1 HD
+http://dnsx.co:80/live/7885037935/fireurl.co/89720.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEyruRM52x2TTJGTWv-cUhq7adG_nkHL2QbD03r16WjqBNqaIXqmibjQ&s=10"group-title="BBB AO VIVO 2021",
+BBB 1 SD
+http://dnsx.co:80/live/7885037935/fireurl.co/89719.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh1cylQdnL2jeeELtUdj1D9XcQJ6AuHAke2OIZQchsUPAKS6xki8oKsRk&s=10"group-title="Infantil",
+Nat Geo Kids
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/10.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUeOrMgWG5e5tA5kifwMeDX1xaUm1os6GoaQ&usqp=CAU"group-title="Infantil",
+Boomerang
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/4.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsn1owcZ8eqr4goJHeNq7DHS8X5ho33WEEXw&usqp=CAU"group-title="Infantil",
+CARTOON NETWORK 
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/30.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNTgSV09oAht_D5EP1TxOzbE6b0u3Jt2umj2s1uDcag-oHb9A&s"group-title="Esportes",
+Fox sports 
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/3.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw-EGKrYo_0lggthcGC2vxKJB1UnaLgIDB6ISs5vC2EN06a8lYTvJikws&s=10"group-title="Esportes",
+ESPN Brasil 
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/6.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOGoHp28LKvLQZxa47EONgdTnYXJSlrcSebw&usqp=CAU"group-title="Esportes",
+ESPN 
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/8.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJCgikjEBWxDoEBG3pX0D1fmzTH-phkEY3nY2l_fRdE4dq4qSiJr6bzzpm&s=10"group-title=
+"Esportes",
+Premiere Clubes 
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/12.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPWLnTCIxNSDQyFqCUyvgrSJtccwOpeIQxta4SelQhB_6Trjof&s"group-title=
+"Esportes",
+SporTV 
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/25.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlflUMCIlyfVsOGykthBenNG9XpjuLOt6V6s4PEwJtDdFXoEtzmO6C8Y4&s=10"group-title=
+"Esportes",
+COMBATE 
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/26.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhQqM9rOpeBKsVuqVM3yEUvYkC8J0VGYD3bQ&usqp=CAU"group-title="Filmes e séries online",
+Space
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/23.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEinSLOYMMdn4vzcOAxReRapX1AQGmyi1h4w&usqp=CAU"group-title="Filmes e séries online",
+Megapix
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/29.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbdzHkl8ltYuJS2BPsYPZbaqtGAVpQtUc4mQ&usqp=CAU"group-title="Filmes e séries online",
+Telecine Premium 
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/28.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuH0TLjMKTS6skJj24pG-T9YSEkf9vXfgmzA&usqp=CAU"group-title="Filmes e séries online",
+Telecine Action
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/31.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT51q_VZpB3qk7HwLsqDa2xC-kNxF1gza0W5g&usqp=CAU"group-title="Filmes e séries online",
+SiFy
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/24.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAEc8ddjEuxlGyjUqUW9tu4oH_BkbGYHYMow&s"group-title="Filmes e séries online",
+HBO Família  FHD
+http://srvx.io:80/live/7885037935/fireurl.co/72114.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwNKM7d4T6PRezu5dyZAXRweDe5oQtCeZtAI5sulxSpml3eZB-KUaSaD5a&s=10"group-title="Filmes e séries online",
+HBO HD
+http://srvx.io:80/live/7885037935/fireurl.co/72110.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsOQQYBym8CgET1fPDHjltAay4G5BLNSBKaigEb1zVFPMjMnUrHl2ifqs&s=10"group-title="Filmes e séries online",
+TNT Séries 
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/18.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRApOAGXDQ59Yi-85fGPuX5-DwSNDe65KGOcg&usqp=CAU"group-title="Filmes e séries online",
+TNT
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/20.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGwqMP_F037Ip4t2MzjNrszjfTEjhF9KSjyQ&usqp=CAU"group-title="Filmes e séries online",
+E!
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/7.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT51jkUBYk5vi8xL-86fxs83vbhCWZCm1Bv_Q&usqp=CAU"group-title="Filmes e séries online",
+Comedy central 
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/21.ts
+
+#EXTINF:-1 tvg-logo="https://www.blogdasky.com.br/wp-content/uploads/2019/07/Warner-TV.png"group-title="Filmes e séries online",
+Warner Chanel 
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/19.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dkDjUO1.jpg"group-title="Filmes e séries online",Telecine Touch
+https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dkDjUO1.jpg"group-title="Filmes e séries online",CINE Filmes
+https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dcb3ff84b8f31ddc39ef213b42402f75.jpg"group-title="Filmes e séries online",TCM (Séries Antigas) 
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w688155486.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be677f392b634453f48ef4e0819c7532.jpg"group-title="Filmes e séries online",ARACATI TV (Séries) 
+https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UWMgqQu.png"group-title="Filmes e séries online",TV CAPITAL (Séries)  
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1d40c5df4382948baeb49aa7d953126b.jpg"group-title="Filmes e séries online",ZEE MUNDO
+https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v1a1/index-1588722015-now.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0JM9jLh.jpg"group-title="Filmes e séries online",GOSPEL MOVIES TELEVISION
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w74712399.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Animal_Planet_1996.svg/revision/latest/scale-to-width-down/340?cb=20181020185755"group-title="Documentário", Animal Planet 
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/22.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxbHzCt7ySw-ajljYimHHBZlaJ0GDus02O1A&usqp=CAU" group-title="Documentário", Animal Planet
+http://95.141.32.158:8081/looktvs/animalplanet/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ZcNEtXRWtFKoTa1Bd1EB8NxDojwlj9BXBQ&usqp=CAU"group-title="Documentário", History 
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/14.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ZcNEtXRWtFKoTa1Bd1EB8NxDojwlj9BXBQ&usqp=CAU"group-title="Documentário", Hitory 2
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/15.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScvfPXsHfa31VLzJbo99Ku3goHT73Hh5m7kg&usqp=CAU"group-title="Documentário", Turbo 
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/27.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRODw-uRgGVgi2SBO8eoIQd6D02gSw-41K87g&usqp=CAU"group-title="Documentário", Nat Geo Wild
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/11.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg3pVU92wCwhlX2f1bVUkUsS2DL6AdVGcNgQ&usqp=CAU"group-title="Documentário", National Geographic
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/16.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0qpt6sSMk51Jbd1nFDBjymPSgLTknzUXNxQ&usqp=CAU"group-title="Documentário",
+Discovery Channel 
+http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/17.ts
