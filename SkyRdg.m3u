@@ -1,0 +1,492 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",Combate 
+http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14353.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",BBB
+http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14930.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo", globo
+http://live.video.globo.com:80/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_655/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",Globo RJ 
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2485
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",Globo Brasilia 
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65730
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",RECORD SP 
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",RECORD
+https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",Record
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",Sbt
+https://cdn-1.nxplay.com.br/TV_SOROCABA_HD_PFZ_NX/index.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MTU0NzU2NDksIm5iZiI6MTYxNTQ3NTY0OSwiZXhwIjoxNjE1NDc1OTQ5LCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiMTUwNTY1NTM5NjA0YTMzYzFjYmZjOTMuNTYyNTU0MzAiLCJjbGllbnRlIjoiMTcyLjMxLjgzLjExNCJ9.KKDV4gQpxZ9vNcLx3Pcqnsn9fB7BXRKZ6ICC6nxOHyw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",SBT 
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2447
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",SBT 
+http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?IMDSFULL
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",Band HD
+https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",Band 
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2526
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo", Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo", Rede Tv
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w1356259817_b1126007.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",AMC_BRASIL
+https://cdn-1.nxplay.com.br/AMC_BRASIL/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo", MTv
+https://cdn-1.nxplay.com.br/MTV_BR_NX/index.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MTU0NzU0MzYsIm5iZiI6MTYxNTQ3NTQzNiwiZXhwIjoxNjE1NDc1NzM2LCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiMjEyNjEzNjAxNjYwNGEzMmVjYmEyNjAwLjE2MDkwMjI3IiwiY2xpZW50ZSI6IjE3Mi4zMS40Ny41MSJ9.c9rw6-Eto09yUFpxzntYGkTxYHGkjuK9AjE-9tBcm5A
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",FISH_TV
+https://cdn-1.nxplay.com.br/FISH_TV_NX/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",Tv Universal 
+https://cdn-1.nxplay.com.br/UNIVESP_PFZ/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",Comedy central 
+https://origin-02.nxplay.com.br/CCLB_HD_NXPLAY_1/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",FASHIONONE
+https://cdn-1.nxplay.com.br/FASHIONONE_HD/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",SESC_TV
+https://cdn-1.nxplay.com.br/SESC_TV/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",WOOHOO
+https://cdn-1.nxplay.com.br/WOOHOO_NXPLAY/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",NICK_Junior_BR
+https://cdn-1.nxplay.com.br/NICK_JR_BR_HD_NXPLAY/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",NICK_Disney BR
+https://cdn-1.nxplay.com.br/NICK_BR_HD_NX/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",Network
+https://cdn-1.nxplay.com.br/PCBR_HD_NXPLAY_1/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",Gazela 
+https://cdn-1.nxplay.com.br/TV_GAZETA_NX/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",TERRAVIVA
+https://cdn-1.nxplay.com.br/TERRAVIVA/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",CANAL_DO_BOI
+https://cdn-1.nxplay.com.br/CANAL_DO_BOI_NX/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",CANCAO_NOVA
+https://cdn-1.nxplay.com.br/CANCAO_NOVA/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",TV_APARECIDA
+https://cdn-1.nxplay.com.br/TV_APARECIDA/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",TV_BRASIL
+https://cdn-1.nxplay.com.br/TV_BRASIL_NX/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",Tv Câmara 
+https://stream3.camara.gov.br/tv1/manifest.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",NOVO_TEMPO
+https://cdn-1.nxplay.com.br/NOVO_TEMPO_HD_PFZ/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",TV_CULTURA
+https://cdn-1.nxplay.com.br/TV_CULTURA_HD_PFZ/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",MULTICULTURA
+https://cdn-1.nxplay.com.br/MULTICULTURA_PFZ/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",Arte1
+https://cdn-1.nxplay.com.br/ARTE1_NX/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",Tv Tem
+https://cdn-1.nxplay.com.br/TV_TEM_HD_PFZ_NX/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",CNN
+https://cdn-1.nxplay.com.br/CNN_Brazil_HD_NX/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",RECORD_NEWS
+https://cdn-1.nxplay.com.br/RECORD_NEWS/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",BAND_NEWS
+https://cdn-1.nxplay.com.br/BAND_NEWS_NXPLAY/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",BAND_SPORTS
+https://cdn-1.nxplay.com.br/BAND_SPORTS_NXPLAY/video.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo", ESPN
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo", All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo", +All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1782229082.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR001A&EBR.png" group-title="BR Filmes e Series", BR001:A&E HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2531
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR005AXNBR.png" group-title="BR Filmes e Series", BR005:AXN HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2527
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/" group-title="BR Filmes e Series", BR080:Globo SP
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2452
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR014CinemaxBR.png" group-title="BR Filmes e Series", BR014:Cinemax HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2518
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR038FoxBR.png" group-title="BR Filmes e Series", BR038:Fox HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2494
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR040FoxPermium1.png" group-title="BR Filmes e Series", BR040:Fox Permium 1 HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2492
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR041FoxPremium2.png" group-title="BR Filmes e Series", BR041:Fox Premium 2 HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2491
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR044FXBR.png" group-title="BR Filmes e Series", BR044:FX HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2488
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR061Max.png" group-title="BR Filmes e Series", BR061:Max
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2471
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR064MegaPix.png" group-title="BR Filmes e Series", BR064:MegaPix HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2468
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR074ParamountBR.png" group-title="BR Filmes e Series", BR074:Paramount Channel HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2458
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR090StudioUniversal.png" group-title="BR Filmes e Series", BR090:Studio Universal HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2442
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR091SYFYBR.png" group-title="BR Filmes e Series", BR091:SYFY HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2441
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR099TLCBR.png" group-title="BR Filmes e Series", BR099:TLC HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2433
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR092TBSBR.png" group-title="BR Filmes e Series", BR092:TBS HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2440
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR162FoxFHD.png" group-title="BR Filmes e Series", BR162:Fox FHD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65717
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR164FoxPremium1FHD.png" group-title="BR Filmes e Series", BR164:Fox Premium 1 FHD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65719
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR174FxSD.png" group-title="BR Filmes e Series", BR174:Fx SD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65729
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR264VivaFHD.png" group-title="BR Variedades", BR264:Viva FHD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65819
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR100TNTBR.png" group-title="BR Filmes e Series", BR100:TNT HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2432
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR101TNTSeriesBR.png" group-title="BR Filmes e Series", BR101:TNT Series  HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2431
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR102TVRaTimBum.png" group-title="BR Infantis", BR102:TV Ra Tim Bum
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2430
+
+#EXTINF:-1 tvg-id="combate.br" tvg-name="BR015:Combate HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR015Combate.png" group-title="BR Esportes",BR015:Combate HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2517
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR033ESPN.png" group-title="BR Esportes", BR033:ESPN HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2499
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR030ESPNExtra.png" group-title="BR Esportes", BR030:ESPN Extra HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2502
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR073OFF.png" group-title="BR Esportes", BR073:Off HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2459
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR088SportTV3.png" group-title="BR Esportes", BR088:Sport TV 3 HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2444
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR087SportTV2.png" group-title="BR Esportes", BR087:Sport TV 2 HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2445
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR089SportTV1.png" group-title="BR Esportes", BR089:Sport TV 1 HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2443
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR034PFC.png" group-title="BR Esportes", BR034:PFC HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2498
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR268WoohooSD.png" group-title="BR Esportes", BR268:Woohoo FHD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65823
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR010BISBR.png" group-title="BR Musicas", BR010:BIS HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2522
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR205MtvFHD.png" group-title="BR Musicas", BR205:Mtv FHD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65760
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR065MTVBR.png" group-title="BR Musicas", BR065:MTV HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2467
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR209MusicBoxSD.png" group-title="BR Musicas", BR209:Music Box SD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65764
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR054HBOBR.png" group-title="BR HBO", BR054:HBO HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2478
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR052HBO2BR.png" group-title="BR HBO", BR052:HBO 2 HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2480
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR055HBOPlusBR.png" group-title="BR HBO", BR055:HBO Plus HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2477
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR056HBOSignatureBR.png" group-title="BR HBO", BR056:HBO Signature HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2476
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR093TelecineAction.png" group-title="BR Telecine", BR093:Telecine Action HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2439
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR096TelecinePipoca.png" group-title="BR Telecine", BR096:Telecine Pipoca HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2436
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR098TelecineTouch.png" group-title="BR Telecine", BR098:Telecine Touch HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2434
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR255TelecineTouchFHD.png" group-title="BR Telecine", BR255:Telecine Touch FHD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65810
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR075Premiere2.png" group-title="BR Premiere", BR075:Premiere 2 HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2457
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR076Premiere3.png" group-title="BR Premiere", BR076:Premiere 3 HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2456
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR004Arte1.png" group-title="BR Variedades", BR004:Arte 1 HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2528
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR110Arte1FHD.png" group-title="BR Variedades", BR110:Arte 1 FHD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65665
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR016ComedyCentralBR.png" group-title="BR Variedades", BR016:Comedy Central HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2516
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR020DiscoveryHomeHealth.png" group-title="BR Variedades", BR020:Discovery Home Health HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2512
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR029E!BR.png" group-title="BR Variedades", BR029:E! HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2503
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR039FoxLife.png" group-title="BR Variedades", BR039:Fox Life HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2493
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR050GNTBR.png" group-title="BR Variedades", BR050:GNT HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2482
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR059LifetimeBR.png" group-title="BR Variedades", BR059:Lifetime HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2473
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR035VIVABR.png" group-title="BR Variedades", BR035:VIVA HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2497
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR108AnimalPlanetFHD.png" group-title="BR Documentarios", BR108:Animal Planet HD
+http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14428.ts
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR019DiscoveryCivilization.png" group-title="BR Documentarios", BR019:Discovery Civilization HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2513
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR132DiscoveryCivilizationFHD.png" group-title="BR Documentarios", BR132:Discovery Civilization FHD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65687
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR023DiscoveryTheater.png" group-title="BR Documentarios", BR023:Discovery Theater HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2509
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR025DiscoveryWORLD.png" group-title="BR Documentarios", BR025:Discovery World HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2507
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR145DiscoveryWorldFHD.png" group-title="BR Documentarios", BR145:Discovery World FHD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65700
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR058IDBR.png" group-title="BR Documentarios", BR058:Investigacao Discovery HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2474
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR057HistoryBR.png" group-title="BR Documentarios", BR057:History HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2475
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR213NatGeoWildSD.png" group-title="BR Documentarios", BR213:Nat Geo Wild SD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65768
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR140DiscoveryTheaterFHD.png" group-title="BR Documentarios", BR140:Discovery Theater FHD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65695
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR017BabyTV.png" group-title="BR Infantis", BR017:Baby TV HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2515
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR026DisneyBR.png" group-title="BR Infantis", BR026:Disney HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2506
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR027DISNEYJRBR.png" group-title="BR Infantis", BR027:DISNEY JR HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2505
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR028DisneyXDBR.png" group-title="BR Infantis", BR028:Disney XD HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2504
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR021DiscoveryKids.png" group-title="BR Infantis", BR021:Discovery Kids HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2511
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR049Gloobinho.png" group-title="BR Infantis", BR049:Gloobinho HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2483
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR071NICKJRBR.png" group-title="BR Infantis", BR071:NICK JR HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2461
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR079Premiere6.png" group-title="BR Noticias", BR079:CNN BRASIL HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2453
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR007BandNewsBR.png" group-title="BR Noticias", BR007:Band News HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2525
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR045GloboNewsBR.png" group-title="BR Noticias", BR045:Globo News HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2487
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR116BandNewsSD.png" group-title="BR Noticias", BR116:Band News SD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65671
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR176GloboNewsFHD.png" group-title="BR Noticias", BR176:Globo News FHD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65731
+
+
+
+XxxxxxxxxxxxxxSKy 4kxxxxxxxxxxxxX
+
+
+
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/combate.png" group-title="ESPORTES",COMBATE 4K
+http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14353.ts
+
+#EXTINF:-1 tvg-id="ESPNBRASIL" tvg-name="ESPN BRASIL 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/espnbrasil.png" group-title="ESPORTES",ESPN BRASIL 4K
+http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14356.ts
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/espn.png" group-title="ESPORTES",ESPN 4K
+http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14354.ts
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN EXTRA 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/espnextra.png" group-title="ESPORTES",ESPN EXTRA 4K
+http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14357.ts
+
+#EXTINF:-1 tvg-id="FOXSPORTS" tvg-name="FOX SPORT 1 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/foxsport1.png" group-title="ESPORTES",FOX SPORT 1 4K
+http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14358.ts
+
+#EXTINF:-1 tvg-id="FOXSPORTS2" tvg-name="FOX SPORT 2 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/foxsport2.png" group-title="ESPORTES",FOX SPORT 2 4K
+http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14359.ts
+
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORT TV 1 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sporttv1.png" group-title="ESPORTES",SPORT TV 1 4K
+http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14360.ts
+
+#EXTINF:-1 tvg-id="SPORTV2" tvg-name="SPORT TV 2 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sporttv2.png" group-title="ESPORTES",SPORT TV 2 4K
+http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14361.ts
+
+#EXTINF:-1 tvg-id="BANDSPORTS" tvg-name="BAND SPORT 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/bandsports.png" group-title="ESPORTES",BAND SPORT 4K
+http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14364.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="COPA CARIOCA HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/esporteondemamd1.png" group-title="ESPORTES",COPA CARIOCA HD
+http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/154
+
+#EXTINF:-1 tvg-id="" tvg-name="Copa Nordeste 1 HD " tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/copanordeste.png" group-title="ESPORTES",Copa Nordeste 1 HD 
+http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15098
+
+#EXTINF:-1 tvg-id="" tvg-name="Copa Nordeste 2" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/copanordeste.png" group-title="ESPORTES",Copa Nordeste 2
+http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15099
+
+#EXTINF:-1 tvg-id="" tvg-name="Copa Nordeste 3" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/copanordeste.png" group-title="ESPORTES",Copa Nordeste 3
+http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15100
+
+#EXTINF:-1 tvg-id="" tvg-name="Copa Nordeste 4" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/copanordeste.png" group-title="ESPORTES",Copa Nordeste 4
+http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15101
+
+#EXTINF:-1 tvg-id="" tvg-name="Copa Cearense 1 HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/copacearense.png" group-title="ESPORTES",Copa Cearense 1 HD
+http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15104
+
+#EXTINF:-1 tvg-id="" tvg-name="Copa Cearense 2 HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/copacearense.png" group-title="ESPORTES",Copa Cearense 2 HD
+http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15105
+
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Baiano HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/campeonatobaiano.png" group-title="ESPORTES",Campeonato Baiano HD
+http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15106
+
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT ESPORTES HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tntsports.png" group-title="ESPORTES",ESTADIO TNT ESPORTES HD
+http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15102
+
+#EXTINF:-1 tvg-id="" tvg-name="All Sports TV" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/allsportstv.png" group-title="ESPORTES",All Sports TV
+http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15051.ts
+
+#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-name="PREMIER CLUB 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/premier.png" group-title="ESPORTES",PREMIER CLUB 4K
+http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14365.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 1 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/dazn.png" group-title="ESPORTES",Dazn 1 4K
+http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/153.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 1 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/dazn.png" group-title="ESPORTES",Dazn 2 4K
+http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15064.ts
+
+#EXTINF:-1 tvg-id="RECORDNEWS" tvg-name="RECORD NEWS 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMFvoMyj6Qw9a_QDr4VUKw28lM8JLGv9qqMA&usqp=CAU" group-title="NOTÍCIAS",Record  NEWS 4K
+http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/136.ts
+
+#EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="GLOBO NEWS 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globonews.png" group-title="NOTÍCIAS",GLOBO NEWS 4K
+http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14562.ts
+
+#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BAND NEWS 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/bandnews.png" group-title="NOTÍCIAS",BAND NEWS 4K
+http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14563.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cnnbrasil.png" group-title="NOTÍCIAS",CNN http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/150.ts
+
+#EXTINF:-1 tvg-id="FOXNEWS" tvg-name="FOX NEWS HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/foxnews.png" group-title="NOTÍCIAS",FOX NEWS HD
+http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/120.ts
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sbt.png" group-title="ABERTOS",SBT 4K
+http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/110.ts
+
+#EXTINF:-1 tvg-id="BANDRJ" tvg-name="BAND 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/band.png" group-title="ABERTOS",BAND 4K
+http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14558.ts
+
+#EXTINF:-1 tvg-id="BANDRJ" tvg-name="BAND HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/band.png" group-title="ABERTOS",BAND HD
+http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14967
+
+#EXTINF:-1 tvg-id="BANDRJ" tvg-name=" RBATV Band PA HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/band.png" group-title="ABERTOS", RBATV Band PA HD
+http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15002
+
+#EXTINF:-1 tvg-id="REDETV" tvg-name="REDE TV!" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redetv.png" group-title="ABERTOS",REDE TV!
+http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/106
+
+#EXTINF:-1 tvg-id="REDESUPER" tvg-name="REDE SUPER HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redesuper.png" group-title="ABERTOS",REDE SUPER HD
+http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/139
+
+#EXTINF:-1 tvg-id="REDEGÊNESIS" tvg-name="REDE GENESIS HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redegenies.png" group-title="ABERTOS",REDE GENESIS HD
+http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/140
+
+#EXTINF:-1 tvg-id="redegospel.br" tvg-name="REDE GOSPEL HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redegospel.png" group-title="ABERTOS",REDE GOSPEL HD
+http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14983
+
+#EXTINF:-1 tvg-id="" tvg-name="REDE FAMILIA HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redefamilia.png" group-title="ABERTOS",REDE FAMILIA HD
+http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15008
+
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV Tocantins HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redetv.png" group-title="ABERTOS",REDE TV Tocantins HD
+http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15024
+
+#EXTINF:-1 tvg-id="" tvg-name="TBO REDE BRASIL HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tboredebrasil.png" group-title="ABERTOS",TBO REDE BRASIL HD
+http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15028
+
+#EXTINF:-1 tvg-id="" tvg-name="Rede Cnt" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redecnt.png" group-title="ABERTOS",Rede Cnt
+http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15020
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Serra Dourada (SBT GO)" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sbt.png" group-title="ABERTOS",TV Serra Dourada (SBT GO)
+http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15004
