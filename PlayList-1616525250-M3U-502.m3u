@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",Combate 
-http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14353.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",BBB
 http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14930.ts
@@ -23,11 +21,11 @@ https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY/video.m3u8?token=
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",Record
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",Sbt
-https://cdn-1.nxplay.com.br/TV_SOROCABA_HD_PFZ_NX/index.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MTU0NzU2NDksIm5iZiI6MTYxNTQ3NTY0OSwiZXhwIjoxNjE1NDc1OTQ5LCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiMTUwNTY1NTM5NjA0YTMzYzFjYmZjOTMuNTYyNTU0MzAiLCJjbGllbnRlIjoiMTcyLjMxLjgzLjExNCJ9.KKDV4gQpxZ9vNcLx3Pcqnsn9fB7BXRKZ6ICC6nxOHyw
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",SBT 
 http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2447
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",Sbt
+https://cdn-1.nxplay.com.br/TV_SOROCABA_HD_PFZ_NX/index.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MTU0NzU2NDksIm5iZiI6MTYxNTQ3NTY0OSwiZXhwIjoxNjE1NDc1OTQ5LCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiMTUwNTY1NTM5NjA0YTMzYzFjYmZjOTMuNTYyNTU0MzAiLCJjbGllbnRlIjoiMTcyLjMxLjgzLjExNCJ9.KKDV4gQpxZ9vNcLx3Pcqnsn9fB7BXRKZ6ICC6nxOHyw
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",SBT 
 http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?IMDSFULL
