@@ -1,10 +1,14 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="BBB1" tvg-name="BBB 2021 HD" tvg-logo="http://brla.me/bbb21.png" group-title="Reality Show | BBB",BBB 2021 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",
+BBB 2021 HD
 http://tbsrv.me:8880/marcusmesquita1/58264726/121086
-#EXTINF:-1 tvg-id="BBB1" tvg-name="BBB 2021 SD" tvg-logo="http://brla.me/bbb21.png" group-title="Reality Show | BBB",BBB 2021 SD
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",
+BBB 2021 SD
 http://tbsrv.me:8880/marcusmesquita1/58264726/121087
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 1 HD²" tvg-logo="http://brla.me/bbb21.png" group-title="Reality Show | BBB",BBB CAM 1 HD²
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",
+BBB CAM 1 HD²
 http://tbsrv.me:8880/marcusmesquita1/58264726/121170
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo", globo SP
