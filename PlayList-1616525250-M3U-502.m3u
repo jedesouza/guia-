@@ -1,13 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",BBB 2021
-http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14927.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",BBB
-http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14928.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",BBB
-http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14930.ts
+#EXTINF:-1 tvg-id="BBB1" tvg-name="BBB 2021 HD" tvg-logo="http://brla.me/bbb21.png" group-title="Reality Show | BBB",BBB 2021 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/121086
+#EXTINF:-1 tvg-id="BBB1" tvg-name="BBB 2021 SD" tvg-logo="http://brla.me/bbb21.png" group-title="Reality Show | BBB",BBB 2021 SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/121087
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 1 HD²" tvg-logo="http://brla.me/bbb21.png" group-title="Reality Show | BBB",BBB CAM 1 HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/121170
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo", globo SP
 http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2452
@@ -21,11 +19,12 @@ http://a2.skynets.tv:8880/live/wh12m2402/ZKjJsXY4FN/2485.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",Gloob
 http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65730
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",Record
-http://a2.skynets.tv:8880/live/wh12m2402/ZKjJsXY4FN/2449.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",
+RECORD SP HD
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",RECORD 
-http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14566.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",RECORD
+http://a2.skynets.tv:8880/live/wh12m2402/ZKjJsXY4FN/2449.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdefHftC4NM5a5YEgZ6TAxa2MQwl1gNg_99A&usqp=CAU" group-title="Sky Televizo",RECORD
 https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY/video.m3u8?token=
@@ -356,127 +355,8 @@ http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65671
 http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65731
 
 
-XxxxxxxxxxxxxxSKy 4kxxxxxxxxxxxxX
+XxxxxxxxxxxxxxSKy TVxxxxxxxxxxxxX
 
-
-#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/combate.png" group-title="ESPORTES",COMBATE 4K
-http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14353.ts
-
-#EXTINF:-1 tvg-id="ESPNBRASIL" tvg-name="ESPN BRASIL 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/espnbrasil.png" group-title="ESPORTES",ESPN BRASIL 4K
-http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14356.ts
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/espn.png" group-title="ESPORTES",ESPN 4K
-http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14354.ts
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN EXTRA 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/espnextra.png" group-title="ESPORTES",ESPN EXTRA 4K
-http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14357.ts
-
-#EXTINF:-1 tvg-id="FOXSPORTS" tvg-name="FOX SPORT 1 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/foxsport1.png" group-title="ESPORTES",FOX SPORT 1 4K
-http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14358.ts
-
-#EXTINF:-1 tvg-id="FOXSPORTS2" tvg-name="FOX SPORT 2 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/foxsport2.png" group-title="ESPORTES",FOX SPORT 2 4K
-http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14359.ts
-
-#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORT TV 1 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sporttv1.png" group-title="ESPORTES",SPORT TV 1 4K
-http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14360.ts
-
-#EXTINF:-1 tvg-id="SPORTV2" tvg-name="SPORT TV 2 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sporttv2.png" group-title="ESPORTES",SPORT TV 2 4K
-http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14361.ts
-
-#EXTINF:-1 tvg-id="BANDSPORTS" tvg-name="BAND SPORT 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/bandsports.png" group-title="ESPORTES",BAND SPORT 4K
-http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14364.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="COPA CARIOCA HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/esporteondemamd1.png" group-title="ESPORTES",COPA CARIOCA HD
-http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/154
-
-#EXTINF:-1 tvg-id="" tvg-name="Copa Nordeste 1 HD " tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/copanordeste.png" group-title="ESPORTES",Copa Nordeste 1 HD 
-http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15098
-
-#EXTINF:-1 tvg-id="" tvg-name="Copa Nordeste 2" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/copanordeste.png" group-title="ESPORTES",Copa Nordeste 2
-http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15099
-
-#EXTINF:-1 tvg-id="" tvg-name="Copa Nordeste 3" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/copanordeste.png" group-title="ESPORTES",Copa Nordeste 3
-http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15100
-
-#EXTINF:-1 tvg-id="" tvg-name="Copa Nordeste 4" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/copanordeste.png" group-title="ESPORTES",Copa Nordeste 4
-http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15101
-
-#EXTINF:-1 tvg-id="" tvg-name="Copa Cearense 1 HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/copacearense.png" group-title="ESPORTES",Copa Cearense 1 HD
-http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15104
-
-#EXTINF:-1 tvg-id="" tvg-name="Copa Cearense 2 HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/copacearense.png" group-title="ESPORTES",Copa Cearense 2 HD
-http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15105
-
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Baiano HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/campeonatobaiano.png" group-title="ESPORTES",Campeonato Baiano HD
-http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15106
-
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT ESPORTES HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tntsports.png" group-title="ESPORTES",ESTADIO TNT ESPORTES HD
-http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15102
-
-#EXTINF:-1 tvg-id="" tvg-name="All Sports TV" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/allsportstv.png" group-title="ESPORTES",All Sports TV
-http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15051.ts
-
-#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-name="PREMIER CLUB 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/premier.png" group-title="ESPORTES",PREMIER CLUB 4K
-http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14365.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 1 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/dazn.png" group-title="ESPORTES",Dazn 1 4K
-http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/153.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 1 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/dazn.png" group-title="ESPORTES",Dazn 2 4K
-http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15064.ts
-
-#EXTINF:-1 tvg-id="RECORDNEWS" tvg-name="RECORD NEWS 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMFvoMyj6Qw9a_QDr4VUKw28lM8JLGv9qqMA&usqp=CAU" group-title="NOTÍCIAS",Record  NEWS 4K
-http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/136.ts
-
-#EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="GLOBO NEWS 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globonews.png" group-title="NOTÍCIAS",GLOBO NEWS 4K
-http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14562.ts
-
-#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BAND NEWS 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/bandnews.png" group-title="NOTÍCIAS",BAND NEWS 4K
-http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14563.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cnnbrasil.png" group-title="NOTÍCIAS",CNN http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/150.ts
-
-#EXTINF:-1 tvg-id="FOXNEWS" tvg-name="FOX NEWS HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/foxnews.png" group-title="NOTÍCIAS",FOX NEWS HD
-http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/120.ts
-
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sbt.png" group-title="ABERTOS",SBT 4K
-http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/110.ts
-
-#EXTINF:-1 tvg-id="BANDRJ" tvg-name="BAND 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/band.png" group-title="ABERTOS",BAND 4K
-http://massud.homelinux.com:80/live/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14558.ts
-
-#EXTINF:-1 tvg-id="BANDRJ" tvg-name="BAND HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/band.png" group-title="ABERTOS",BAND HD
-http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14967
-
-#EXTINF:-1 tvg-id="BANDRJ" tvg-name=" RBATV Band PA HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/band.png" group-title="ABERTOS", RBATV Band PA HD
-http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15002
-
-#EXTINF:-1 tvg-id="REDETV" tvg-name="REDE TV!" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redetv.png" group-title="ABERTOS",REDE TV!
-http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/106
-
-#EXTINF:-1 tvg-id="REDESUPER" tvg-name="REDE SUPER HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redesuper.png" group-title="ABERTOS",REDE SUPER HD
-http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/139
-
-#EXTINF:-1 tvg-id="REDEGÊNESIS" tvg-name="REDE GENESIS HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redegenies.png" group-title="ABERTOS",REDE GENESIS HD
-http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/140
-
-#EXTINF:-1 tvg-id="redegospel.br" tvg-name="REDE GOSPEL HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redegospel.png" group-title="ABERTOS",REDE GOSPEL HD
-http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14983
-
-#EXTINF:-1 tvg-id="" tvg-name="REDE FAMILIA HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redefamilia.png" group-title="ABERTOS",REDE FAMILIA HD
-http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15008
-
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV Tocantins HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redetv.png" group-title="ABERTOS",REDE TV Tocantins HD
-http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15024
-
-#EXTINF:-1 tvg-id="" tvg-name="TBO REDE BRASIL HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tboredebrasil.png" group-title="ABERTOS",TBO REDE BRASIL HD
-http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15028
-
-#EXTINF:-1 tvg-id="" tvg-name="Rede Cnt" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redecnt.png" group-title="ABERTOS",Rede Cnt
-http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15020
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Serra Dourada (SBT GO)" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sbt.png" group-title="ABERTOS",TV Serra Dourada (SBT GO)
-http://massoud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15004
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5XDIJ_RWfmLYceVxRLvGe0rIdZXWm6AE8DWY7oVcsq0fD1UK3akFofq8&s=10" group-title="TV Aberta", Globo sp
 http://live.video.globo.com:80/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
@@ -486,9 +366,6 @@ http://srvx.io:80/live/7885037935/fireurl.co/72025.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRolqp6zeCFNUoQ3JQrPSaDRSrVLwPC_whALQ&usqp=CAU" group-title="TV Aberta", Globo Rj
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.otvfoco.com.br/2016/11/LOGO_RECORD_TV.jpg" group-title="TV Aberta", RECORD SP HD
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.otvfoco.com.br/2016/11/LOGO_RECORD_TV.jpg" group-title="TV Aberta", RECORD
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
