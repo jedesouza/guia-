@@ -1,0 +1,1500 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-id="AE" tvg-name="Power Couple HD" tvg-logo="http://brla.me/power.png" group-title="Reality Show | Power Couple",Power Couple HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/121086
+#EXTINF:-1 tvg-id="AE" tvg-name="Power Couple HD²" tvg-logo="http://brla.me/power.png" group-title="Reality Show | Power Couple",Power Couple HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/121087
+#EXTINF:-1 tvg-id="" tvg-name="Power Couple HD*²" tvg-logo="http://brla.me/power.png" group-title="Reality Show | Power Couple",Power Couple HD*²
+http://tbsrv.me:8880/marcusmesquita1/58264726/121170
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8xU8biBiV9tSHbyz9urDr3HmB0ffEDmhxg&usqp=CAU" group-title="Weiv sky", Globo Rj
+http://live.video.globo.com:80/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8xU8biBiV9tSHbyz9urDr3HmB0ffEDmhxg&usqp=CAU" group-title="Weiv sky",  Globo SP 
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2452
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8xU8biBiV9tSHbyz9urDr3HmB0ffEDmhxg&usqp=CAU" group-title="Weiv  sky",   Globo
+http://a2.skynets.tv:8880/live/wh12m2402/ZKjJsXY4FN/2485.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8xU8biBiV9tSHbyz9urDr3HmB0ffEDmhxg&usqp=CAU" group-title="Weiv  sky", Globo 
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8xU8biBiV9tSHbyz9urDr3HmB0ffEDmhxg&usqp=CAU" group-title="Weiv  sky",PLAY PLUS HD AO VIVO
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/154
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8xU8biBiV9tSHbyz9urDr3HmB0ffEDmhxg&usqp=CAU" group-title="Weiv  sky", RECORD 
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/135
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8xU8biBiV9tSHbyz9urDr3HmB0ffEDmhxg&usqp=CAU" group-title="Weiv  sky", RECORD SP HD
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8xU8biBiV9tSHbyz9urDr3HmB0ffEDmhxg&usqp=CAU" group-title="Weiv  sky", RECORD
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8xU8biBiV9tSHbyz9urDr3HmB0ffEDmhxg&usqp=CAU" group-title="Weiv sky",SBT HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2447
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8xU8biBiV9tSHbyz9urDr3HmB0ffEDmhxg&usqp=CAU" group-title="Weiv sky",  SBT 
+http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?IMDSFULL
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8xU8biBiV9tSHbyz9urDr3HmB0ffEDmhxg&usqp=CAU" group-title="Weiv sky",  SBT CARUARU 
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?IMDSFULL
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8xU8biBiV9tSHbyz9urDr3HmB0ffEDmhxg&usqp=CAU" group-title="Weiv sky",  SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8?IMDSFULL
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8xU8biBiV9tSHbyz9urDr3HmB0ffEDmhxg&usqp=CAU" group-title="Weiv sky",Band 
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2526
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8xU8biBiV9tSHbyz9urDr3HmB0ffEDmhxg&usqp=CAU" group-title="Weiv sky", Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+
+
+
+✓✓✓✓✓✓✓✓✓✓✓✓ Weiv sky ✓✓✓✓✓✓✓✓✓✓✓
+
+
+
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="Globo SP FHD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo SP FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69634
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="Globo SP FHD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo SP FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101879
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="Globo SP FHD [H265]" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo SP FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77666
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="Globo SP HD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo SP HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69635
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="Globo SP HD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo SP HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101880
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="Globo SP SD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo SP SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69636
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="Globo SP SD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo SP SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101881
+#EXTINF:-1 tvg-id="GloboRJ" tvg-name="Globo RJ FHD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo RJ FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69621
+#EXTINF:-1 tvg-id="GloboRJ" tvg-name="Globo RJ FHD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo RJ FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101871
+#EXTINF:-1 tvg-id="GloboRJ" tvg-name="Globo RJ HD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo RJ HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69631
+#EXTINF:-1 tvg-id="GloboRJ" tvg-name="Globo RJ HD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo RJ HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101872
+#EXTINF:-1 tvg-id="GloboRJ" tvg-name="Globo RJ SD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo RJ SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69623
+#EXTINF:-1 tvg-id="GloboRJ" tvg-name="Globo RJ SD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo RJ SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101873
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="Gazeta SP FHD²" tvg-logo="http://voxp2p.xyz:80/images/e785530345a86e7938ccda1061037ae2.png" group-title="Canais | Abertos",Gazeta SP FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141954
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="Gazeta SP HD²" tvg-logo="http://voxp2p.xyz:80/images/e785530345a86e7938ccda1061037ae2.png" group-title="Canais | Abertos",Gazeta SP HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141926
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="Gazeta SP SD²" tvg-logo="http://voxp2p.xyz:80/images/e785530345a86e7938ccda1061037ae2.png" group-title="Canais | Abertos",Gazeta SP SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141927
+#EXTINF:-1 tvg-id="" tvg-name="Globo  SJRP SD²" tvg-logo="http://voxp2p.xyz:80/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais | Globo",Globo  SJRP SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142067
+#EXTINF:-1 tvg-id="" tvg-name="Globo Anhanguera Goiania HD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo Anhanguera Goiania HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101846
+#EXTINF:-1 tvg-id="0" tvg-name="Globo Belem FHD²" tvg-logo="http://voxp2p.xyz:80/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais | Globo",Globo Belem FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142012
+#EXTINF:-1 tvg-id="" tvg-name="Globo Belem HD²" tvg-logo="http://voxp2p.xyz:80/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais | Globo",Globo Belem HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142013
+#EXTINF:-1 tvg-id="GloboBrasilia" tvg-name="Globo Brasilia FHD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo Brasilia FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/70636
+#EXTINF:-1 tvg-id="GloboBrasilia" tvg-name="Globo Brasilia FHD [H265]" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo Brasilia FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77665
+#EXTINF:-1 tvg-id="GloboBrasilia" tvg-name="Globo Brasilia HD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo Brasilia HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69594
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasilia HD²" tvg-logo="http://voxp2p.xyz:80/images/f83bbe43bb54ae9c41cb201e4db7148e.png" group-title="Canais | Globo",Globo Brasilia HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142015
+#EXTINF:-1 tvg-id="GloboBrasilia" tvg-name="Globo Brasilia SD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo Brasilia SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69595
+#EXTINF:-1 tvg-id="GloboBrasilia" tvg-name="Globo Brasilia SD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo Brasilia SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101847
+#EXTINF:-1 tvg-id="" tvg-name="Globo Ceará SD²" tvg-logo="http://voxp2p.xyz:80/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais | Globo",Globo Ceará SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142034
+#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="Globo Centro América Cuiaba SD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo Centro América Cuiaba SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101848
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV Campinas FHD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo EPTV Campinas FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/70637
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV Campinas FHD²" tvg-logo="http://voxp2p.xyz:80/images/95000177da05d4b66da8ec1f302d7567.png" group-title="Canais | Globo",Globo EPTV Campinas FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142021
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo EPTV Campinas HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/547
+#EXTINF:-1 tvg-id="0" tvg-name="Globo EPTV Campinas HD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo EPTV Campinas HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101850
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV Campinas SD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo EPTV Campinas SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69596
+#EXTINF:-1 tvg-id="0" tvg-name="Globo EPTV Campinas SD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo EPTV Campinas SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101851
+#EXTINF:-1 tvg-id="0" tvg-name="Globo EPTV Ribeirao Preto HD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo EPTV Ribeirao Preto HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/111021
+#EXTINF:-1 tvg-id="0" tvg-name="Globo EPTV Ribeirao Preto SD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo EPTV Ribeirao Preto SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101852
+#EXTINF:-1 tvg-id="0" tvg-name="Globo EPTV Ribeirão Preto SD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo EPTV Ribeirão Preto SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69597
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo EPTV Sao Carlos SD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo EPTV Sao Carlos SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101853
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo EPTV Sul de Minas FHD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo EPTV Sul de Minas FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/550
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo EPTV Sul de Minas FHD²" tvg-logo="http://voxp2p.xyz:80/images/95000177da05d4b66da8ec1f302d7567.png" group-title="Canais | Globo",Globo EPTV Sul de Minas FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142016
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo EPTV Sul de Minas HD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo EPTV Sul de Minas HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/551
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo EPTV Sul de Minas HD²" tvg-logo="http://voxp2p.xyz:80/images/95000177da05d4b66da8ec1f302d7567.png" group-title="Canais | Globo",Globo EPTV Sul de Minas HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142017
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo EPTV Sul de Minas SD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo EPTV Sul de Minas SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/84245
+#EXTINF:-1 tvg-id="" tvg-name="Globo Esportes 1 HD" tvg-logo="http://brla.me/gesporte.jpg" group-title="Canais | Pay-Per-View",Globo Esportes 1 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133577
+#EXTINF:-1 tvg-id="" tvg-name="Globo Esportes 2 HD" tvg-logo="http://brla.me/gesporte.jpg" group-title="Canais | Pay-Per-View",Globo Esportes 2 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133578
+#EXTINF:-1 tvg-id="" tvg-name="Globo Esportes 3 HD" tvg-logo="http://brla.me/gesporte.jpg" group-title="Canais | Pay-Per-View",Globo Esportes 3 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133579
+#EXTINF:-1 tvg-id="" tvg-name="Globo Esportes 4 HD" tvg-logo="http://brla.me/gesporte.jpg" group-title="Canais | Pay-Per-View",Globo Esportes 4 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133580
+#EXTINF:-1 tvg-id="" tvg-name="Globo Esportes 5 HD" tvg-logo="http://brla.me/gesporte.jpg" group-title="Canais | Pay-Per-View",Globo Esportes 5 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133581
+#EXTINF:-1 tvg-id="0" tvg-name="Globo Gazeta Alagoas FHD²" tvg-logo="http://voxp2p.xyz:80/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais | Globo",Globo Gazeta Alagoas FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142018
+#EXTINF:-1 tvg-id="" tvg-name="Globo INTER do Vale FHD²" tvg-logo="http://voxp2p.xyz:80/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais | Globo",Globo INTER do Vale FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142059
+#EXTINF:-1 tvg-id="0" tvg-name="Globo INTER TV Cabugi RN HD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo INTER TV Cabugi RN HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101854
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo Inter TV Cabugi SD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo Inter TV Cabugi SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69599
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Inter TV dos Vales FHD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo Inter TV dos Vales FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/92865
+#EXTINF:-1 tvg-id="" tvg-name="Globo INTER TV dos Vales HD²" tvg-logo="http://voxp2p.xyz:80/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais | Globo",Globo INTER TV dos Vales HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142036
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Inter TV Grande Minas FHD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo Inter TV Grande Minas FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/92863
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Inter TV Grande Minas HD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo Inter TV Grande Minas HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/92864
+#EXTINF:-1 tvg-id="" tvg-name="Globo INTER TV Grande Minas HD²" tvg-logo="http://voxp2p.xyz:80/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais | Globo",Globo INTER TV Grande Minas HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142038
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Inter TV Grande Minas SD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo Inter TV Grande Minas SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/92867
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Grande Minas SD²" tvg-logo="http://voxp2p.xyz:80/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais | Globo",Globo Inter TV Grande Minas SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142037
+#EXTINF:-1 tvg-id="" tvg-name="Globo Internacional HD²" tvg-logo="http://voxp2p.xyz:80/images/5250f213569cb20115f971815dff77fc.png" group-title="Canais | Globo",Globo Internacional HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142074
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo InterTV Alto Litoral HD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo InterTV Alto Litoral HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101856
+#EXTINF:-1 tvg-id="" tvg-name="Globo Juazeiro Bahia FHD²" tvg-logo="http://voxp2p.xyz:80/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais | Globo",Globo Juazeiro Bahia FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142050
+#EXTINF:-1 tvg-id="" tvg-name="Globo Juazeiro Bahia HD²" tvg-logo="http://voxp2p.xyz:80/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais | Globo",Globo Juazeiro Bahia HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142049
+#EXTINF:-1 tvg-id="" tvg-name="Globo Manaus HD²" tvg-logo="http://voxp2p.xyz:80/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais | Globo",Globo Manaus HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142014
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas FHD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo Minas FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69600
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas FHD²" tvg-logo="http://voxp2p.xyz:80/images/51ae80078cf8985163429f9c251c615d.png" group-title="Canais | Globo",Globo Minas FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142019
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas HD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo Minas HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69601
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas HD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo Minas HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101858
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas SD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo Minas SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69603
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas SD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo Minas SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101859
+#EXTINF:-1 tvg-id="" tvg-name="Globo Natal HD²" tvg-logo="http://voxp2p.xyz:80/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais | Globo",Globo Natal HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142041
+#EXTINF:-1 tvg-id="" tvg-name="Globo Natal SD²" tvg-logo="http://voxp2p.xyz:80/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais | Globo",Globo Natal SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142040
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News FHD" tvg-logo="http://brla.me/Globo%20News.png" group-title="Canais | Noticias",Globo News FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69466
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News FHD²" tvg-logo="http://brla.me/Globo%20News.png" group-title="Canais | Noticias",Globo News FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101748
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News FHD [H265]" tvg-logo="http://brla.me/Globo%20News.png" group-title="Canais | Noticias",Globo News FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77705
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News HD" tvg-logo="http://brla.me/Globo%20News.png" group-title="Canais | Noticias",Globo News HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69467
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News HD²" tvg-logo="http://brla.me/Globo%20News.png" group-title="Canais | Noticias",Globo News HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101749
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News SD" tvg-logo="http://brla.me/Globo%20News.png" group-title="Canais | Noticias",Globo News SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/70147
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News SD²" tvg-logo="http://brla.me/Globo%20News.png" group-title="Canais | Noticias",Globo News SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101750
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Globo Nordeste FHD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo Nordeste FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69604
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Globo Nordeste FHD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo Nordeste FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101860
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Globo Nordeste HD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo Nordeste HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69606
+#EXTINF:-1 tvg-id="0" tvg-name="Globo Nordeste HD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo Nordeste HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101861
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Globo Nordeste SD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo Nordeste SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69605
+#EXTINF:-1 tvg-id="0" tvg-name="Globo Nordeste SD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo Nordeste SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101862
+#EXTINF:-1 tvg-id="0" tvg-name="Globo NSC Blumenau HD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo NSC Blumenau HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101863
+#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="Globo NSC Chapeco HD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo NSC Chapeco HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/113605
+#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="Globo NSC Florianopolis FHD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo NSC Florianopolis FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69611
+#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="Globo NSC Florianopolis HD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo NSC Florianopolis HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69615
+#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="Globo NSC Florianopolis SD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo NSC Florianopolis SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/569
+#EXTINF:-1 tvg-id="0" tvg-name="Globo NSC Florianópolis HD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo NSC Florianópolis HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101864
+#EXTINF:-1 tvg-id="0" tvg-name="Globo NSC Joinville HD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo NSC Joinville HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101865
+#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="Globo NSC TV Florianopolis FHD²" tvg-logo="http://voxp2p.xyz:80/images/c954cc8876fb1886372da4ee81b566a5.png" group-title="Canais | Globo",Globo NSC TV Florianopolis FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142030
+#EXTINF:-1 tvg-id="NSCTV.br" tvg-name="Globo NSC TV Joinville FHD²" tvg-logo="http://voxp2p.xyz:80/images/c954cc8876fb1886372da4ee81b566a5.png" group-title="Canais | Globo",Globo NSC TV Joinville FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142042
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="Globo RBS Caxias FHD²" tvg-logo="http://voxp2p.xyz:80/images/e7bb279a3affa3449ae56a890af36ff2.png" group-title="Canais | Globo",Globo RBS Caxias FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142043
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="Globo RBS Pelotas FHD²" tvg-logo="http://voxp2p.xyz:80/images/e7bb279a3affa3449ae56a890af36ff2.png" group-title="Canais | Globo",Globo RBS Pelotas FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142045
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="Globo RBS Porto Alegre HD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo RBS Porto Alegre HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101867
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="Globo RBS Porto Alegre SD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo RBS Porto Alegre SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101868
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="Globo RBS Santa Maria HD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo RBS Santa Maria HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/113604
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="Globo RBS TV Caxias do Sul HD²" tvg-logo="http://voxp2p.xyz:80/images/e7bb279a3affa3449ae56a890af36ff2.png" group-title="Canais | Globo",Globo RBS TV Caxias do Sul HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142044
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="Globo RBS TV Pelotas HD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo RBS TV Pelotas HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101869
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="Globo RBS TV Porto Alegre FHD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo RBS TV Porto Alegre FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69616
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="Globo RBS TV Porto Alegre FHD²" tvg-logo="http://voxp2p.xyz:80/images/e7bb279a3affa3449ae56a890af36ff2.png" group-title="Canais | Globo",Globo RBS TV Porto Alegre FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142031
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="Globo RBS TV Porto Alegre HD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo RBS TV Porto Alegre HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69617
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="Globo RBS TV Porto Alegre SD" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo RBS TV Porto Alegre SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69618
+#EXTINF:-1 tvg-id="" tvg-name="Globo Recife FHD²" tvg-logo="http://voxp2p.xyz:80/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais | Globo",Globo Recife FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142046
+#EXTINF:-1 tvg-id="" tvg-name="Globo Recife HD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo Recife HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/128698
+#EXTINF:-1 tvg-id="" tvg-name="Globo Recife SD²" tvg-logo="http://brla.me/Globo.png" group-title="Canais | Globo",Globo Recife SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/128697
+#EXTINF:-1 tvg-id="0" tvg-name="Globo Rede Amazonica FHD²" tvg-logo="http://voxp2p.xyz:80/images/7959799fcb0fffc14972a61d9f21df9f.png" group-title="Canais | Globo",Globo Rede Amazonica FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142048
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV SP FHD" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV SP FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69673
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV SP FHD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV SP FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141906
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV SP FHD [H265]" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV SP FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77663
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV SP HD" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV SP HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/173
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV SP HD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV SP HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141907
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV SP SD" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV SP SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/174
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV SP SD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV SP SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141908
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV BA HD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV BA HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/70032
+#EXTINF:-1 tvg-id="" tvg-name="RecordTV BA HD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV BA HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/128701
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV Bahia FHD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV Bahia FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141918
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV Bahia SD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV Bahia SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141912
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV Belem FHD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV Belem FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141924
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV Belem HD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV Belem HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141923
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV BH Minas HD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV BH Minas HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/99227
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV Brasilia FHD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV Brasilia FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141919
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV Brasilia HD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV Brasilia HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141909
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV Brasilia SD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV Brasilia SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141913
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV DF HD" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV DF HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/181
+
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV Goias FHD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV Goias FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141910
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV Goias HD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV Goias HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141915
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV Goias SD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV Goias SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/113614
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV Goias SD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV Goias SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141914
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV Manaus FHD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV Manaus FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141922
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV Manaus HD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV Manaus HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141916
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV Manaus SD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV Manaus SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141921
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV MG HD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV MG HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/190
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV MG SD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV MG SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/69671
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV Minas FHD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV Minas FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141911
+#EXTINF:-1 tvg-id="" tvg-name="RecordTV NDTV Itajaí HD" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV NDTV Itajaí HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/137919
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV RJ FHD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV RJ FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141904
+#EXTINF:-1 tvg-id="RecordTVRioHD" tvg-name="RecordTV RJ HD" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV RJ HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69672
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV RJ HD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV RJ HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/99238
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV RJ SD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV RJ SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141920
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV RS FHD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV RS FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141917
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV RS HD" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV RS HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/187
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV RS HD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV RS HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141905
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV RS SD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV RS SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/75136
+#EXTINF:-1 tvg-id="0" tvg-name="RecordTV Santa Catarina HD²" tvg-logo="http://brla.me/Record.png" group-title="Canais | Abertos",RecordTV Santa Catarina HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141925
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV HDR" tvg-logo="http://img.redbull.com/images/c_fill,w_1500,h_1000,g_auto,f_auto,q_auto/redbullcom/2016/10/01/1331821221085_2/red-bull-tv" group-title="Canais | Pay-Per-View",Red Bull TV HDR
+http://tbsrv.me:8880/marcusmesquita1/58264726/70086
+#EXTINF:-1 tvg-id="0" tvg-name="Rede Brasil HD²" tvg-logo="http://voxp2p.xyz:80/images/eb8b387163142f61fecf91800ec2c741.png" group-title="Canais | Abertos",Rede Brasil HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141928
+#EXTINF:-1 tvg-id="0" tvg-name="Rede CNT ES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png" group-title="Canais | Religiosos",Rede CNT ES HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/99206
+#EXTINF:-1 tvg-id="0" tvg-name="Rede CNT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png" group-title="Canais | Religiosos",Rede CNT SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/99207
+#EXTINF:-1 tvg-id="" tvg-name="Rede Genesis FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d1/Rede_genesis.jpg" group-title="Canais | Religiosos",Rede Genesis FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/128653
+#EXTINF:-1 tvg-id="" tvg-name="Rede Genesis SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d1/Rede_genesis.jpg" group-title="Canais | Religiosos",Rede Genesis SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/128654
+#EXTINF:-1 tvg-id="" tvg-name="Rede Gospel SD²" tvg-logo="http://brla.me/Rede%20Gospel.png" group-title="Canais | Religiosos",Rede Gospel SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/129347
+#EXTINF:-1 tvg-id="RedeTV" tvg-name="Rede TV FHD" tvg-logo="http://brla.me/Rede%20TV!.png" group-title="Canais | Abertos",Rede TV FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69677
+#EXTINF:-1 tvg-id="RedeTV" tvg-name="Rede TV FHD [H265]" tvg-logo="http://brla.me/Rede%20TV!.png" group-title="Canais | Abertos",Rede TV FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77739
+#EXTINF:-1 tvg-id="RedeTV" tvg-name="Rede TV HD" tvg-logo="http://brla.me/Rede%20TV!.png" group-title="Canais | Abertos",Rede TV HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69678
+#EXTINF:-1 tvg-id="RedeTV" tvg-name="Rede TV HD²" tvg-logo="http://brla.me/Rede%20TV!.png" group-title="Canais | Abertos",Rede TV HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101843
+#EXTINF:-1 tvg-id="RedeTV" tvg-name="Rede TV SD" tvg-logo="http://brla.me/Rede%20TV!.png" group-title="Canais | Abertos",Rede TV SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69680
+#EXTINF:-1 tvg-id="RedeTV" tvg-name="Rede TV SD²" tvg-logo="http://brla.me/Rede%20TV!.png" group-title="Canais | Abertos",Rede TV SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101844
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida HD²" tvg-logo="http://brla.me/Rede%20Vida.png" group-title="Canais | Religiosos",Rede Vida HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/70518
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida SD²" tvg-logo="http://brla.me/Rede%20Vida.png" group-title="Canais | Religiosos",Rede Vida SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/111058
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP FHD" tvg-logo="http://brla.me/SBT.png" group-title="Canais | Abertos",SBT SP FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/94520
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP FHD²" tvg-logo="http://brla.me/SBT.png" group-title="Canais | Abertos",SBT SP FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101722
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD²" tvg-logo="http://brla.me/SBT.png" group-title="Canais | Abertos",SBT SP FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141929
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP HD" tvg-logo="http://brla.me/SBT.png" group-title="Canais | Abertos",SBT SP HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69683
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP HD²" tvg-logo="http://brla.me/SBT.png" group-title="Canais | Abertos",SBT SP HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101724
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP SD" tvg-logo="http://brla.me/SBT.png" group-title="Canais | Abertos",SBT SP SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69684
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP SD²" tvg-logo="http://brla.me/SBT.png" group-title="Canais | Abertos",SBT SP SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101723
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT Alterosa MG FHD²" tvg-logo="http://brla.me/SBT.png" group-title="Canais | Abertos",SBT Alterosa MG FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141952
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT Alterosa MG SD²" tvg-logo="http://brla.me/SBT.png" group-title="Canais | Abertos",SBT Alterosa MG SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141953
+#EXTINF:-1 tvg-id="" tvg-name="SBT Aratu Bahia SD²" tvg-logo="http://brla.me/SBT.png" group-title="Canais | Abertos",SBT Aratu Bahia SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141950
+#EXTINF:-1 tvg-id="" tvg-name="SBT BSB HD²" tvg-logo="http://brla.me/SBT.png" group-title="Canais | Abertos",SBT BSB HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141947
+#EXTINF:-1 tvg-id="" tvg-name="SBT ES HD²" tvg-logo="http://voxp2p.xyz:80/images/45ea6b287b72cbae3b51f29735363115.png" group-title="Canais | Abertos",SBT ES HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141955
+#EXTINF:-1 tvg-id="" tvg-name="SBT ES SD²" tvg-logo="http://brla.me/SBT.png" group-title="Canais | Abertos",SBT ES SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141946
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT MG Alterosa FHD²" tvg-logo="http://brla.me/SBT.png" group-title="Canais | Abertos",SBT MG Alterosa FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/99214
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT Parana FHD²" tvg-logo="http://brla.me/SBT.png" group-title="Canais | Abertos",SBT Parana FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141930
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT Parana SD²" tvg-logo="http://brla.me/SBT.png" group-title="Canais | Abertos",SBT Parana SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141931
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT Paraná HD²" tvg-logo="http://brla.me/SBT.png" group-title="Canais | Abertos",SBT Paraná HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/122051
+#EXTINF:-1 tvg-id="" tvg-name="SBT RJ FHD²" tvg-logo="http://brla.me/SBT.png" group-title="Canais | Abertos",SBT RJ FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/128699
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT RJ HD²" tvg-logo="http://brla.me/SBT.png" group-title="Canais | Abertos",SBT RJ HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/99221
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RJ SD²" tvg-logo="http://brla.me/SBT.png" group-title="Canais | Abertos",SBT RJ SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141932
+#EXTINF:-1 tvg-id="" tvg-name="SBT RS HD²" tvg-logo="http://brla.me/SBT.png" group-title="Canais | Abertos",SBT RS HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141945
+#EXTINF:-1 tvg-id="" tvg-name="SBT Sergipe HD²" tvg-logo="http://brla.me/SBT.png" group-title="Canais | Abertos",SBT Sergipe HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141948
+#EXTINF:-1 tvg-id="" tvg-name="SBT Serra Dourada SD²" tvg-logo="http://brla.me/SBT.png" group-title="Canais | Abertos",SBT Serra Dourada SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141951
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT TV Alterosa HD²" tvg-logo="http://brla.me/SBT.png" group-title="Canais | Abertos",SBT TV Alterosa HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/99215
+#EXTINF:-1 tvg-id="" tvg-name="SBT VTV Campinas SD²" tvg-logo="http://brla.me/SBT.png" group-title="Canais | Abertos",SBT VTV Campinas SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141949
+
+
+✓✓✓✓✓✓✓✓✓✓✓Canais 4k✓✓✓✓✓✓✓✓✓✓✓✓
+
+
+
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/combate.png" group-title="ESPORTES",COMBATE 4K
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14353
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/espn.png" group-title="ESPORTES",ESPN 4K
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14354
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 2 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/espn2.png" group-title="ESPORTES",ESPN 2 4K
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14355
+#EXTINF:-1 tvg-id="ESPNBRASIL" tvg-name="ESPN BRASIL 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/espnbrasil.png" group-title="ESPORTES",ESPN BRASIL 4K
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14356
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN EXTRA 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/espnextra.png" group-title="ESPORTES",ESPN EXTRA 4K
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14357
+#EXTINF:-1 tvg-id="FOXSPORTS" tvg-name="FOX SPORT 1 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/foxsport1.png" group-title="ESPORTES",FOX SPORT 1 4K
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14358
+#EXTINF:-1 tvg-id="FOXSPORTS2" tvg-name="FOX SPORT 2 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/foxsport2.png" group-title="ESPORTES",FOX SPORT 2 4K
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14359
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORT TV 1 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sporttv1.png" group-title="ESPORTES",SPORT TV 1 4K
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14360
+#EXTINF:-1 tvg-id="SPORTV2" tvg-name="SPORT TV 2 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sporttv2.png" group-title="ESPORTES",SPORT TV 2 4K
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14361
+#EXTINF:-1 tvg-id="SPORTV3" tvg-name="SPORT TV 3 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sporttv3.png" group-title="ESPORTES",SPORT TV 3 4K
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14362
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/off.png" group-title="ESPORTES",OFF 4K
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14363
+#EXTINF:-1 tvg-id="BANDSPORTS" tvg-name="BAND SPORT 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/bandsports.png" group-title="ESPORTES",BAND SPORT 4K
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14364
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 1 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/dazn.png" group-title="ESPORTES",Dazn 1 4K
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/153
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 2 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/dazn.png" group-title="ESPORTES",Dazn 2 4K
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15064
+#EXTINF:-1 tvg-id="" tvg-name="TNT ESPORTES 1 HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tntsports.png" group-title="ESPORTES",TNT ESPORTES 1 HD
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15102
+#EXTINF:-1 tvg-id="" tvg-name="TNT ESPORTES 2 HD " tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tntsports.png" group-title="ESPORTES",TNT ESPORTES 2 HD 
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15122
+#EXTINF:-1 tvg-id="" tvg-name="TNT ESPORTES 3 HD " tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tntsports.png" group-title="ESPORTES",TNT ESPORTES 3 HD 
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15123
+#EXTINF:-1 tvg-id="" tvg-name="TNT ESPORTES 4 HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tntsports.png" group-title="ESPORTES",TNT ESPORTES 4 HD
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15149
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 01 4k" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/conmebol.png" group-title="ESPORTES",CONMEBOL TV 01 4k
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15235
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 4k" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/conmebol.png" group-title="ESPORTES",CONMEBOL TV 2 4k
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/158
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 4k" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/conmebol.png" group-title="ESPORTES",CONMEBOL TV 3 4k
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15233
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 4k" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/conmebol.png" group-title="ESPORTES",CONMEBOL TV 4 4k
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15234
+#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-name="PREMIER CLUB 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/premier.png" group-title="ESPORTES",PREMIER CLUB 4K
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14365
+#EXTINF:-1 tvg-id="PREMIERE2" tvg-name="PREMIER 2 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/premier.png" group-title="ESPORTES",PREMIER 2 4K
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14366
+#EXTINF:-1 tvg-id="PREMIERE3" tvg-name="PREMIER 3 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/premier.png" group-title="ESPORTES",PREMIER 3 4K
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14367
+#EXTINF:-1 tvg-id="PREMIERE4" tvg-name="PREMIER 4 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/premier.png" group-title="ESPORTES",PREMIER 4 4K
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14368
+#EXTINF:-1 tvg-id="PREMIERE5BRAZIL" tvg-name="PREMIER 5 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/premier.png" group-title="ESPORTES",PREMIER 5 4K
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14369
+#EXTINF:-1 tvg-id="PREMIERE6" tvg-name="PREMIER 6 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/premier.png" group-title="ESPORTES",PREMIER 6 4K
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14370
+#EXTINF:-1 tvg-id="PREMIERE7" tvg-name="PREMIER 7 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/premier.png" group-title="ESPORTES",PREMIER 7 4K
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14371
+#EXTINF:-1 tvg-id="PREMIERE8" tvg-name="PREMIER 8 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/premier.png" group-title="ESPORTES",PREMIER 8 4K
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/14372
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/3255_300.png" group-title="ESPORTES",WOOHOO 4K
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/141
+#EXTINF:-1 tvg-id="" tvg-name="All Sports TV" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/allsportstv.png" group-title="ESPORTES",All Sports TV
+http://massud.homelinux.com:80/rwXEU2o8rtYDlTQ9/w2U8ZiacSQo6FoIw/15051
+
+
+✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓
+
+
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E FHD" tvg-logo="http://brla.me/A&E.png" group-title="Canais | Filmes e Series",A&E FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/643
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E FHD²" tvg-logo="http://brla.me/A&E.png" group-title="Canais | Filmes e Series",A&E FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103854
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E FHD [H265]" tvg-logo="http://brla.me/A&E.png" group-title="Canais | Filmes e Series",A&E FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77668
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E HD" tvg-logo="http://brla.me/A&E.png" group-title="Canais | Filmes e Series",A&E HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/51
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E HD²" tvg-logo="http://brla.me/A&E.png" group-title="Canais | Filmes e Series",A&E HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103855
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E SD" tvg-logo="http://brla.me/A&E.png" group-title="Canais | Filmes e Series",A&E SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69585
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E SD²" tvg-logo="http://brla.me/A&E.png" group-title="Canais | Filmes e Series",A&E SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103856
+#EXTINF:-1 tvg-id="" tvg-name="All Sports TV HD" tvg-logo="http://brla.me/allsports.jpg" group-title="Canais | Pay-Per-View",All Sports TV HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133562
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo="http://brla.me/AMC.png" group-title="Canais | Filmes e Series",AMC FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69710
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD [H265]" tvg-logo="http://brla.me/AMC.png" group-title="Canais | Filmes e Series",AMC FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77669
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://brla.me/AMC.png" group-title="Canais | Filmes e Series",AMC HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/70008
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD" tvg-logo="http://brla.me/AMC.png" group-title="Canais | Filmes e Series",AMC SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69580
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet FHD" tvg-logo="http://brla.me/Animal%20Planet.png" group-title="Canais | Documentarios",Animal Planet FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69519
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet FHD²" tvg-logo="http://brla.me/Animal%20Planet.png" group-title="Canais | Documentarios",Animal Planet FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/106620
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet FHD [H265]" tvg-logo="http://brla.me/Animal%20Planet.png" group-title="Canais | Documentarios",Animal Planet FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77670
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet HD" tvg-logo="http://brla.me/Animal%20Planet.png" group-title="Canais | Documentarios",Animal Planet HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69520
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet HD²" tvg-logo="http://brla.me/Animal%20Planet.png" group-title="Canais | Documentarios",Animal Planet HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/106621
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet SD" tvg-logo="http://brla.me/Animal%20Planet.png" group-title="Canais | Documentarios",Animal Planet SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69521
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet SD²" tvg-logo="http://brla.me/Animal%20Planet.png" group-title="Canais | Documentarios",Animal Planet SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/106622
+#EXTINF:-1 tvg-id="Arte1" tvg-name="Arte 1 FHD" tvg-logo="http://brla.me/Arte1.png" group-title="Canais | Documentarios",Arte 1 FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/92197
+
+#EXTINF:-1 tvg-id="Arte1" tvg-name="Arte 1 FHD²" tvg-logo="http://brla.me/Arte1.png" group-title="Canais | Documentarios",Arte 1 FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/106623
+#EXTINF:-1 tvg-id="Arte1" tvg-name="Arte 1 HD" tvg-logo="http://brla.me/Arte1.png" group-title="Canais | Documentarios",Arte 1 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/116
+#EXTINF:-1 tvg-id="Arte1" tvg-name="Arte 1 HD²" tvg-logo="http://brla.me/Arte1.png" group-title="Canais | Documentarios",Arte 1 HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/106624
+#EXTINF:-1 tvg-id="Arte1" tvg-name="Arte 1 SD" tvg-logo="http://brla.me/Arte1.png" group-title="Canais | Documentarios",Arte 1 SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/92198
+#EXTINF:-1 tvg-id="Arte1" tvg-name="Arte 1 SD²" tvg-logo="http://brla.me/Arte1.png" group-title="Canais | Documentarios",Arte 1 SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/106625
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD" tvg-logo="http://brla.me/AXN.png" group-title="Canais | Filmes e Series",AXN FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69535
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD²" tvg-logo="http://brla.me/AXN.png" group-title="Canais | Filmes e Series",AXN FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103857
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD [H265]" tvg-logo="http://brla.me/AXN.png" group-title="Canais | Filmes e Series",AXN FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77671
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://brla.me/AXN.png" group-title="Canais | Filmes e Series",AXN HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/70009
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD²" tvg-logo="http://brla.me/AXN.png" group-title="Canais | Filmes e Series",AXN HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103858
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN SD" tvg-logo="http://brla.me/AXN.png" group-title="Canais | Filmes e Series",AXN SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69587
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN SD²" tvg-logo="http://brla.me/AXN.png" group-title="Canais | Filmes e Series",AXN SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103859
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="Baby TV FHD" tvg-logo="http://brla.me/Baby%20TV.png" group-title="Canais | Infantis",Baby TV FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/92199
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="Baby TV HD" tvg-logo="http://brla.me/Baby%20TV.png" group-title="Canais | Infantis",Baby TV HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/92200
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="Baby TV SD" tvg-logo="http://brla.me/Baby%20TV.png" group-title="Canais | Infantis",Baby TV SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/631
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BabyTV HD²" tvg-logo="http://brla.me/Baby%20TV.png" group-title="Canais | Infantis",BabyTV HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101910
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BabyTV SD²" tvg-logo="http://brla.me/Baby%20TV.png" group-title="Canais | Infantis",BabyTV SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101911
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News FHD" tvg-logo="http://brla.me/Band%20News.png" group-title="Canais | Noticias",Band News FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69463
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News FHD²" tvg-logo="http://brla.me/Band%20News.png" group-title="Canais | Noticias",Band News FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101743
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band News FHD [H265]" tvg-logo="http://brla.me/Band%20News.png" group-title="Canais | Noticias",Band News FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77672
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News HD" tvg-logo="http://brla.me/Band%20News.png" group-title="Canais | Noticias",Band News HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69464
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News HD²" tvg-logo="http://brla.me/Band%20News.png" group-title="Canais | Noticias",Band News HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101744
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News SD" tvg-logo="http://brla.me/Band%20News.png" group-title="Canais | Noticias",Band News SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/46
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News SD²" tvg-logo="http://brla.me/Band%20News.png" group-title="Canais | Noticias",Band News SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101745
+#EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports FHD" tvg-logo="http://brla.me/Band%20Sports.png" group-title="Canais | Esportes",Band Sports FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/70044
+#EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports FHD²" tvg-logo="http://brla.me/Band%20Sports.png" group-title="Canais | Esportes",Band Sports FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103907
+#EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports FHD [H265]" tvg-logo="http://brla.me/Band%20Sports.png" group-title="Canais | Esportes",Band Sports FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77673
+#EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports HD" tvg-logo="http://brla.me/Band%20Sports.png" group-title="Canais | Esportes",Band Sports HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/70045
+#EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports HD²" tvg-logo="http://brla.me/Band%20Sports.png" group-title="Canais | Esportes",Band Sports HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103908
+#EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports SD" tvg-logo="http://brla.me/Band%20Sports.png" group-title="Canais | Esportes",Band Sports SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69789
+#EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports SD²" tvg-logo="http://brla.me/Band%20Sports.png" group-title="Canais | Esportes",Band Sports SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103909
+#EXTINF:-1 tvg-id="Bandeirantes" tvg-name="Band TV FHD" tvg-logo="http://brla.me/Band.png" group-title="Canais | Abertos",Band TV FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69591
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band TV FHD²" tvg-logo="http://brla.me/Band.png" group-title="Canais | Abertos",Band TV FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141958
+#EXTINF:-1 tvg-id="Bandeirantes" tvg-name="Band TV HD" tvg-logo="http://brla.me/Band.png" group-title="Canais | Abertos",Band TV HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/11
+#EXTINF:-1 tvg-id="Bandeirantes" tvg-name="Band TV SD" tvg-logo="http://brla.me/Band.png" group-title="Canais | Abertos",Band TV SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69593
+#EXTINF:-1 tvg-id="Bandeirantes" tvg-name="Band TV SP HD²" tvg-logo="http://brla.me/Band.png" group-title="Canais | Abertos",Band TV SP HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/99256
+#EXTINF:-1 tvg-id="Bandeirantes" tvg-name="Band TV SP SD²" tvg-logo="http://brla.me/Band.png" group-title="Canais | Abertos",Band TV SP SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/99257
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band TV Bahia HD²" tvg-logo="http://brla.me/Band.png" group-title="Canais | Abertos",Band TV Bahia HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141938
+#EXTINF:-1 tvg-id="" tvg-name="Band TV BSB SD²" tvg-logo="http://brla.me/Band.png" group-title="Canais | Abertos",Band TV BSB SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141939
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band TV Campinas FHD²" tvg-logo="http://brla.me/Band.png" group-title="Canais | Abertos",Band TV Campinas FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141956
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band TV Campinas HD²" tvg-logo="http://brla.me/Band.png" group-title="Canais | Abertos",Band TV Campinas HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141957
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band TV Curitiba HD²" tvg-logo="http://brla.me/Band.png" group-title="Canais | Abertos",Band TV Curitiba HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141940
+#EXTINF:-1 tvg-id="" tvg-name="Band TV Goiania SD²" tvg-logo="http://brla.me/Band.png" group-title="Canais | Abertos",Band TV Goiania SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141943
+#EXTINF:-1 tvg-id="" tvg-name="Band TV Paraná SD²" tvg-logo="http://brla.me/Band.png" group-title="Canais | Abertos",Band TV Paraná SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141944
+#EXTINF:-1 tvg-id="" tvg-name="Band TV RJ SD²" tvg-logo="http://brla.me/Band.png" group-title="Canais | Abertos",Band TV RJ SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141937
+#EXTINF:-1 tvg-id="" tvg-name="Band TV RS HD²" tvg-logo="http://brla.me/Band.png" group-title="Canais | Abertos",Band TV RS HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141941
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band TV Sergipe HD²" tvg-logo="http://brla.me/Band.png" group-title="Canais | Abertos",Band TV Sergipe HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141942
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 HD" tvg-logo="http://brla.me/Bein%20Sports%201.png" group-title="Canais | Pay-Per-View",Bein Sports 1 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133523
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 HD" tvg-logo="http://brla.me/Bein%20Sports%201.png" group-title="Canais | Pay-Per-View",Bein Sports 2 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133524
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 HD" tvg-logo="http://brla.me/Bein%20Sports%203.png" group-title="Canais | Pay-Per-View",Bein Sports 3 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133525
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4 HD" tvg-logo="http://brla.me/Bein%20Sports%204.png" group-title="Canais | Pay-Per-View",Bein Sports 4 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133526
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 5 HD" tvg-logo="http://brla.me/Bein%20Sports%205.png" group-title="Canais | Pay-Per-View",Bein Sports 5 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133527
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 6 HD" tvg-logo="http://brla.me/Bein%20Sports%206.png" group-title="Canais | Pay-Per-View",Bein Sports 6 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133528
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 7 HD" tvg-logo="http://brla.me/Bein%20Sports%207.png" group-title="Canais | Pay-Per-View",Bein Sports 7 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133529
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD" tvg-logo="http://brla.me/Bis.png" group-title="Canais | Variedades",BIS FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69760
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD [H265]" tvg-logo="http://brla.me/Bis.png" group-title="Canais | Variedades",BIS FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77674
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD" tvg-logo="http://brla.me/Bis.png" group-title="Canais | Variedades",BIS HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69761
+#EXTINF:-1 tvg-id="0" tvg-name="Bis HD²" tvg-logo="http://brla.me/Bis.png" group-title="Canais | Variedades",Bis HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/111061
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS SD" tvg-logo="http://brla.me/Bis.png" group-title="Canais | Variedades",BIS SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69762
+#EXTINF:-1 tvg-id="0" tvg-name="Bis SD²" tvg-logo="http://brla.me/Bis.png" group-title="Canais | Variedades",Bis SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/111062
+#EXTINF:-1 tvg-id="0" tvg-name="Boa Vontade HD²" tvg-logo="http://voxp2p.xyz:80/images/3aafaae7c5fcec066b361d8ec7ab1337.png" group-title="Canais | Religiosos",Boa Vontade HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142099
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang FHD" tvg-logo="http://brla.me/Boomerang.png" group-title="Canais | Infantis",Boomerang FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69484
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang FHD²" tvg-logo="http://brla.me/Boomerang.png" group-title="Canais | Infantis",Boomerang FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101912
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang FHD [H265]" tvg-logo="http://brla.me/Boomerang.png" group-title="Canais | Infantis",Boomerang FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77675
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang HD" tvg-logo="http://brla.me/Boomerang.png" group-title="Canais | Infantis",Boomerang HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69485
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang HD²" tvg-logo="http://brla.me/Boomerang.png" group-title="Canais | Infantis",Boomerang HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101913
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang SD" tvg-logo="http://brla.me/Boomerang.png" group-title="Canais | Infantis",Boomerang SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69486
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang SD²" tvg-logo="http://brla.me/Boomerang.png" group-title="Canais | Infantis",Boomerang SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101914
+#EXTINF:-1 tvg-id="" tvg-name="BotafogoTV 1 HD" tvg-logo="http://brla.me/botatv.jpg" group-title="Canais | Pay-Per-View",BotafogoTV 1 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133485
+#EXTINF:-1 tvg-id="" tvg-name="BotafogoTV 2 HD" tvg-logo="http://brla.me/botatv.jpg" group-title="Canais | Pay-Per-View",BotafogoTV 2 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133486
+#EXTINF:-1 tvg-id="" tvg-name="BotafogoTV 3 HD" tvg-logo="http://brla.me/botatv.jpg" group-title="Canais | Pay-Per-View",BotafogoTV 3 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133487
+#EXTINF:-1 tvg-id="" tvg-name="BotafogoTV 4 HD" tvg-logo="http://brla.me/botatv.jpg" group-title="Canais | Pay-Per-View",BotafogoTV 4 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133488
+#EXTINF:-1 tvg-id="" tvg-name="BotafogoTV 5 HD" tvg-logo="http://brla.me/botatv.jpg" group-title="Canais | Pay-Per-View",BotafogoTV 5 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133489
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Catarinense 2 HD" tvg-logo="http://brla.me/catarinense.jpeg" group-title="Canais | Pay-Per-View",Campeonato Catarinense 2 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133563
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Catarinense 3 HD" tvg-logo="http://brla.me/catarinense.jpeg" group-title="Canais | Pay-Per-View",Campeonato Catarinense 3 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133564
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Catarinense 4 HD" tvg-logo="http://brla.me/catarinense.jpeg" group-title="Canais | Pay-Per-View",Campeonato Catarinense 4 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133565
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Catarinense 5 HD" tvg-logo="http://brla.me/catarinense.jpeg" group-title="Canais | Pay-Per-View",Campeonato Catarinense 5 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133566
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Mineiro 1 HD" tvg-logo="http://brla.me/mineiro.jpg" group-title="Canais | Pay-Per-View",Campeonato Mineiro 1 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133567
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Mineiro 2 HD" tvg-logo="http://brla.me/mineiro.jpg" group-title="Canais | Pay-Per-View",Campeonato Mineiro 2 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133568
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Mineiro 3 HD" tvg-logo="http://brla.me/mineiro.jpg" group-title="Canais | Pay-Per-View",Campeonato Mineiro 3 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133569
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Mineiro 4 HD" tvg-logo="http://brla.me/mineiro.jpg" group-title="Canais | Pay-Per-View",Campeonato Mineiro 4 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133570
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Mineiro 5 HD" tvg-logo="http://brla.me/mineiro.jpg" group-title="Canais | Pay-Per-View",Campeonato Mineiro 5 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133571
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Sergipano 1 HD" tvg-logo="http://brla.me/sergipano.jpg" group-title="Canais | Pay-Per-View",Campeonato Sergipano 1 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133572
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Sergipano 2 HD" tvg-logo="http://brla.me/sergipano.jpg" group-title="Canais | Pay-Per-View",Campeonato Sergipano 2 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133573
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Sergipano 3 HD" tvg-logo="http://brla.me/sergipano.jpg" group-title="Canais | Pay-Per-View",Campeonato Sergipano 3 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133574
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Sergipano 4 HD" tvg-logo="http://brla.me/sergipano.jpg" group-title="Canais | Pay-Per-View",Campeonato Sergipano 4 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133575
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Sergipano 5 HD" tvg-logo="http://brla.me/sergipano.jpg" group-title="Canais | Pay-Per-View",Campeonato Sergipano 5 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133576
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil FHD" tvg-logo="http://brla.me/Canal%20Brasil.png" group-title="Canais | Variedades",Canal Brasil FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/74608
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil FHD [H265]" tvg-logo="http://brla.me/Canal%20Brasil.png" group-title="Canais | Variedades",Canal Brasil FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77676
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil HD" tvg-logo="http://brla.me/Canal%20Brasil.png" group-title="Canais | Variedades",Canal Brasil HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/70011
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil SD" tvg-logo="http://brla.me/Canal%20Brasil.png" group-title="Canais | Variedades",Canal Brasil SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/70012
+#EXTINF:-1 tvg-id="0" tvg-name="Canal do Boi HD²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUroI5t_MSTCD29Zhh7quNER0Bi_Xd9fsl2A&s" group-title="Canais | Abertos",Canal do Boi HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/141959
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi SD²" tvg-logo="http://brla.me/Canal%20do%20Boi.png" group-title="Canais | Variedades",Canal do Boi SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/111025
+#EXTINF:-1 tvg-id="" tvg-name="Canal Rural SD²" tvg-logo="http://brla.me/Canal%20Rural.png" group-title="Canais | Variedades",Canal Rural SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/111081
+#EXTINF:-1 tvg-id="CanalSony" tvg-name="Canal Sony FHD" tvg-logo="http://brla.me/Sony%20Channel.png" group-title="Canais | Filmes e Series",Canal Sony FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69556
+#EXTINF:-1 tvg-id="CanalSony" tvg-name="Canal Sony FHD²" tvg-logo="http://brla.me/Sony%20Channel.png" group-title="Canais | Filmes e Series",Canal Sony FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103860
+#EXTINF:-1 tvg-id="CanalSony" tvg-name="Canal Sony FHD [H265]" tvg-logo="http://brla.me/Sony%20Channel.png" group-title="Canais | Filmes e Series",Canal Sony FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77677
+#EXTINF:-1 tvg-id="CanalSony" tvg-name="Canal Sony HD" tvg-logo="http://brla.me/Sony%20Channel.png" group-title="Canais | Filmes e Series",Canal Sony HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/70014
+#EXTINF:-1 tvg-id="CanalSony" tvg-name="Canal Sony HD²" tvg-logo="http://brla.me/Sony%20Channel.png" group-title="Canais | Filmes e Series",Canal Sony HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103861
+#EXTINF:-1 tvg-id="CanalSony" tvg-name="Canal Sony SD" tvg-logo="http://brla.me/Sony%20Channel.png" group-title="Canais | Filmes e Series",Canal Sony SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69630
+#EXTINF:-1 tvg-id="CanalSony" tvg-name="Canal Sony SD²" tvg-logo="http://brla.me/Sony%20Channel.png" group-title="Canais | Filmes e Series",Canal Sony SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103862
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canção Nova FHD²" tvg-logo="http://voxp2p.xyz:80/images/9785aab110ace3b4b445d48d66c014bc.png" group-title="Canais | Religiosos",Canção Nova FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142100
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canção Nova HD²" tvg-logo="http://brla.me/Can%c3%a7%c3%a3o%20Nova.png" group-title="Canais | Religiosos",Canção Nova HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/70082
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canção Nova SD²" tvg-logo="http://voxp2p.xyz:80/images/9785aab110ace3b4b445d48d66c014bc.png" group-title="Canais | Religiosos",Canção Nova SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/142101
+#EXTINF:-1 tvg-id="" tvg-name="Cariocão HD" tvg-logo="http://www.ogol.com.br/img/logos/edicoes/140351_imgbank_.png" group-title="Canais | Pay-Per-View",Cariocão HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/122841
+#EXTINF:-1 tvg-id="" tvg-name="Cariocão SD" tvg-logo="http://www.ogol.com.br/img/logos/edicoes/140351_imgbank_.png" group-title="Canais | Pay-Per-View",Cariocão SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/122840
+#EXTINF:-1 tvg-id="" tvg-name="Cariocão 1 HD²" tvg-logo="http://www.ogol.com.br/img/logos/edicoes/140351_imgbank_.png" group-title="Canais | Pay-Per-View",Cariocão 1 HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/123020
+#EXTINF:-1 tvg-id="" tvg-name="Cariocão 2 HD" tvg-logo="http://www.ogol.com.br/img/logos/edicoes/140351_imgbank_.png" group-title="Canais | Pay-Per-View",Cariocão 2 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/122843
+#EXTINF:-1 tvg-id="" tvg-name="Cariocão 2 HD²" tvg-logo="http://www.ogol.com.br/img/logos/edicoes/140351_imgbank_.png" group-title="Canais | Pay-Per-View",Cariocão 2 HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/123021
+#EXTINF:-1 tvg-id="" tvg-name="Cariocão 2 SD" tvg-logo="http://www.ogol.com.br/img/logos/edicoes/140351_imgbank_.png" group-title="Canais | Pay-Per-View",Cariocão 2 SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/122842
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network FHD" tvg-logo="http://brla.me/Cartoon%20Network.png" group-title="Canais | Infantis",Cartoon Network FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69487
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network FHD²" tvg-logo="http://brla.me/Cartoon%20Network.png" group-title="Canais | Infantis",Cartoon Network FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101915
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network FHD [H265]" tvg-logo="http://brla.me/Cartoon%20Network.png" group-title="Canais | Infantis",Cartoon Network FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77678
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://brla.me/Cartoon%20Network.png" group-title="Canais | Infantis",Cartoon Network HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69488
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network HD²" tvg-logo="http://brla.me/Cartoon%20Network.png" group-title="Canais | Infantis",Cartoon Network HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101916
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network SD" tvg-logo="http://brla.me/Cartoon%20Network.png" group-title="Canais | Infantis",Cartoon Network SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69489
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network SD²" tvg-logo="http://brla.me/Cartoon%20Network.png" group-title="Canais | Infantis",Cartoon Network SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101917
+#EXTINF:-1 tvg-id="0" tvg-name="Chef TV FHD" tvg-logo="http://brla.me/Chef%20TV.png" group-title="Canais | Variedades",Chef TV FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/92201
+#EXTINF:-1 tvg-id="0" tvg-name="Chef TV HD" tvg-logo="http://brla.me/Chef%20TV.png" group-title="Canais | Variedades",Chef TV HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/92202
+#EXTINF:-1 tvg-id="0" tvg-name="Chef TV SD" tvg-logo="http://brla.me/Chef%20TV.png" group-title="Canais | Variedades",Chef TV SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/92203
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax FHD" tvg-logo="http://brla.me/Cinemax.png" group-title="Canais | Filmes e Series",Cinemax FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69552
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax FHD²" tvg-logo="http://brla.me/Cinemax.png" group-title="Canais | Filmes e Series",Cinemax FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103863
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax FHD [H265]" tvg-logo="http://brla.me/Cinemax.png" group-title="Canais | Filmes e Series",Cinemax FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77679
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax HD" tvg-logo="http://brla.me/Cinemax.png" group-title="Canais | Filmes e Series",Cinemax HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/70015
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax HD²" tvg-logo="http://brla.me/Cinemax.png" group-title="Canais | Filmes e Series",Cinemax HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103864
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax SD" tvg-logo="http://brla.me/Cinemax.png" group-title="Canais | Filmes e Series",Cinemax SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/70016
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax SD²" tvg-logo="http://brla.me/Cinemax.png" group-title="Canais | Filmes e Series",Cinemax SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103865
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil FHD" tvg-logo="http://brla.me/CNN%20Brasil.png" group-title="Canais | Noticias",CNN Brasil FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/70089
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil HD" tvg-logo="http://brla.me/CNN%20Brasil.png" group-title="Canais | Noticias",CNN Brasil HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/70090
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil HD²" tvg-logo="http://brla.me/CNN%20Brasil.png" group-title="Canais | Noticias",CNN Brasil HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101746
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil SD" tvg-logo="http://brla.me/CNN%20Brasil.png" group-title="Canais | Noticias",CNN Brasil SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/70146
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil SD²" tvg-logo="http://brla.me/CNN%20Brasil.png" group-title="Canais | Noticias",CNN Brasil SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101747
+#EXTINF:-1 tvg-id="CNNEspanhol.br" tvg-name="CNN Espanhol FHD" tvg-logo="http://brla.me/CNN%20en%20Espa%c3%b1ol.png" group-title="Canais | Noticias",CNN Espanhol FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/85636
+#EXTINF:-1 tvg-id="CNNEspanhol.br" tvg-name="CNN Espanhol HD" tvg-logo="http://brla.me/CNN%20en%20Espa%c3%b1ol.png" group-title="Canais | Noticias",CNN Espanhol HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/85637
+#EXTINF:-1 tvg-id="CNNEspanhol.br" tvg-name="CNN Espanhol SD" tvg-logo="http://brla.me/CNN%20en%20Espa%c3%b1ol.png" group-title="Canais | Noticias",CNN Espanhol SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/972
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN Internacional FHD" tvg-logo="http://brla.me/CNN%20Internacional.png" group-title="Canais | Noticias",CNN Internacional FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/92204
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN Internacional HD" tvg-logo="http://brla.me/CNN%20Internacional.png" group-title="Canais | Noticias",CNN Internacional HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/92205
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN Internacional SD" tvg-logo="http://brla.me/CNN%20Internacional.png" group-title="Canais | Noticias",CNN Internacional SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69465
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FHD" tvg-logo="http://brla.me/Combate.png" group-title="Canais | Esportes",Combate FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69788
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FHD²" tvg-logo="http://brla.me/Combate.png" group-title="Canais | Esportes",Combate FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103910
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FHD [H265]" tvg-logo="http://brla.me/Combate.png" group-title="Canais | Esportes",Combate FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77680
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD" tvg-logo="http://brla.me/Combate.png" group-title="Canais | Esportes",Combate HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69749
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD²" tvg-logo="http://brla.me/Combate.png" group-title="Canais | Esportes",Combate HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103911
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate SD" tvg-logo="http://brla.me/Combate.png" group-title="Canais | Esportes",Combate SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69725
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate SD²" tvg-logo="http://brla.me/Combate.png" group-title="Canais | Esportes",Combate SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103912
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central FHD" tvg-logo="http://brla.me/Comedy%20Central.png" group-title="Canais | Variedades",Comedy Central FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/841
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central FHD²" tvg-logo="http://brla.me/Comedy%20Central.png" group-title="Canais | Variedades",Comedy Central FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/111106
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central FHD [H265]" tvg-logo="http://brla.me/Comedy%20Central.png" group-title="Canais | Variedades",Comedy Central FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77681
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="http://brla.me/Comedy%20Central.png" group-title="Canais | Variedades",Comedy Central HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/74609
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD²" tvg-logo="http://brla.me/Comedy%20Central.png" group-title="Canais | Variedades",Comedy Central HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/111107
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central SD" tvg-logo="http://brla.me/Comedy%20Central.png" group-title="Canais | Variedades",Comedy Central SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69765
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central SD²" tvg-logo="http://brla.me/Comedy%20Central.png" group-title="Canais | Variedades",Comedy Central SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/111108
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol - Copa Libertadores 1 FHD" tvg-logo="http://seeklogo.com/images/C/conmebol-logo-D2B7F9C525-seeklogo.com.png" group-title="Canais | Pay-Per-View",Conmebol - Copa Libertadores 1 FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/70277
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV FHD (JOGO 1)" tvg-logo="http://seeklogo.com/images/C/conmebol-logo-D2B7F9C525-seeklogo.com.png" group-title="Canais | Pay-Per-View",Conmebol TV FHD (JOGO 1)
+http://tbsrv.me:8880/marcusmesquita1/58264726/101633
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV HD (JOGO 1)" tvg-logo="http://seeklogo.com/images/C/conmebol-logo-D2B7F9C525-seeklogo.com.png" group-title="Canais | Pay-Per-View",Conmebol TV HD (JOGO 1)
+http://tbsrv.me:8880/marcusmesquita1/58264726/101636
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol - Copa Libertadores 2 FHD" tvg-logo="http://seeklogo.com/images/C/conmebol-logo-D2B7F9C525-seeklogo.com.png" group-title="Canais | Pay-Per-View",Conmebol - Copa Libertadores 2 FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/86728
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV FHD (JOGO 2)" tvg-logo="http://seeklogo.com/images/C/conmebol-logo-D2B7F9C525-seeklogo.com.png" group-title="Canais | Pay-Per-View",Conmebol TV FHD (JOGO 2)
+http://tbsrv.me:8880/marcusmesquita1/58264726/101634
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV HD (JOGO 2)" tvg-logo="http://seeklogo.com/images/C/conmebol-logo-D2B7F9C525-seeklogo.com.png" group-title="Canais | Pay-Per-View",Conmebol TV HD (JOGO 2)
+http://tbsrv.me:8880/marcusmesquita1/58264726/101637
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol - Copa Libertadores 3 FHD" tvg-logo="http://seeklogo.com/images/C/conmebol-logo-D2B7F9C525-seeklogo.com.png" group-title="Canais | Pay-Per-View",Conmebol - Copa Libertadores 3 FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/86729
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV FHD (JOGO 3)" tvg-logo="http://seeklogo.com/images/C/conmebol-logo-D2B7F9C525-seeklogo.com.png" group-title="Canais | Pay-Per-View",Conmebol TV FHD (JOGO 3)
+http://tbsrv.me:8880/marcusmesquita1/58264726/101635
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol - Copa Libertadores 3 HD" tvg-logo="http://seeklogo.com/images/C/conmebol-logo-D2B7F9C525-seeklogo.com.png" group-title="Canais | Pay-Per-View",Conmebol - Copa Libertadores 3 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/92777
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV HD (JOGO 3)" tvg-logo="http://seeklogo.com/images/C/conmebol-logo-D2B7F9C525-seeklogo.com.png" group-title="Canais | Pay-Per-View",Conmebol TV HD (JOGO 3)
+http://tbsrv.me:8880/marcusmesquita1/58264726/101638
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol - Copa Libertadores 4 FHD" tvg-logo="http://seeklogo.com/images/C/conmebol-logo-D2B7F9C525-seeklogo.com.png" group-title="Canais | Pay-Per-View",Conmebol - Copa Libertadores 4 FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/86730
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol - Copa Libertadores 4 HD" tvg-logo="http://seeklogo.com/images/C/conmebol-logo-D2B7F9C525-seeklogo.com.png" group-title="Canais | Pay-Per-View",Conmebol - Copa Libertadores 4 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/92778
+#EXTINF:-1 tvg-id="" tvg-name="Copa Catarinense 1 HD" tvg-logo="http://fcf-sc.s3.sa-east-1.amazonaws.com/wp-content/uploads/2020/12/21170225/WhatsApp-Image-2020-12-18-at-14.47.06.jpeg" group-title="Canais | Pay-Per-View",Copa Catarinense 1 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/820
+#EXTINF:-1 tvg-id="" tvg-name="Copa Catarinense 1 SD" tvg-logo="http://fcf-sc.s3.sa-east-1.amazonaws.com/wp-content/uploads/2020/12/21170225/WhatsApp-Image-2020-12-18-at-14.47.06.jpeg" group-title="Canais | Pay-Per-View",Copa Catarinense 1 SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/821
+#EXTINF:-1 tvg-id="" tvg-name="Copa Catarinense 2 HD" tvg-logo="http://fcf-sc.s3.sa-east-1.amazonaws.com/wp-content/uploads/2020/12/21170225/WhatsApp-Image-2020-12-18-at-14.47.06.jpeg" group-title="Canais | Pay-Per-View",Copa Catarinense 2 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/822
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 1 HD" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="Canais | Pay-Per-View",Copa do Nordeste 1 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/818
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 1 SD" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="Canais | Pay-Per-View",Copa do Nordeste 1 SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/76192
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 2 HD" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="Canais | Pay-Per-View",Copa do Nordeste 2 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/76193
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 2 SD" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="Canais | Pay-Per-View",Copa do Nordeste 2 SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/76194
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! FHD" tvg-logo="http://brla.me/Curta!.png" group-title="Canais | Documentarios",Curta! FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/92779
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! HD" tvg-logo="http://brla.me/Curta!.png" group-title="Canais | Documentarios",Curta! HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/611
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! HD²" tvg-logo="http://brla.me/Curta!.png" group-title="Canais | Documentarios",Curta! HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/106590
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! SD" tvg-logo="http://brla.me/Curta!.png" group-title="Canais | Documentarios",Curta! SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/127
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! SD²" tvg-logo="http://brla.me/Curta!.png" group-title="Canais | Documentarios",Curta! SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/106591
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 01 HD" tvg-logo="http://brla.me/DAZN.png" group-title="Canais | Pay-Per-View",DAZN 01 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/101643
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 02 HD" tvg-logo="http://brla.me/DAZN.png" group-title="Canais | Pay-Per-View",DAZN 02 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/101644
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 03 HD" tvg-logo="http://brla.me/DAZN.png" group-title="Canais | Pay-Per-View",DAZN 03 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/101645
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 04 HD" tvg-logo="http://brla.me/DAZN.png" group-title="Canais | Pay-Per-View",DAZN 04 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/101646
+#EXTINF:-1 tvg-id="" tvg-name="DAZN HDR" tvg-logo="http://brla.me/DAZN.png" group-title="Canais | Pay-Per-View",DAZN HDR
+http://tbsrv.me:8880/marcusmesquita1/58264726/223
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SD" tvg-logo="http://brla.me/DAZN.png" group-title="Canais | Pay-Per-View",DAZN SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69754
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="Discovery Channel FHD" tvg-logo="http://brla.me/Discovery%20Channel.png" group-title="Canais | Discovery",Discovery Channel FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69524
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="Discovery Channel FHD [H265]" tvg-logo="http://brla.me/Discovery%20Channel.png" group-title="Canais | Discovery",Discovery Channel FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77682
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="Discovery Channel FHD²" tvg-logo="http://brla.me/Discovery%20Channel.png" group-title="Canais | Discovery",Discovery Channel FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/106592
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="Discovery Channel HD" tvg-logo="http://brla.me/Discovery%20Channel.png" group-title="Canais | Discovery",Discovery Channel HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69525
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="Discovery Channel SD" tvg-logo="http://brla.me/Discovery%20Channel.png" group-title="Canais | Discovery",Discovery Channel SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69526
+#EXTINF:-1 tvg-id="DiscoveryHH" tvg-name="Discovery H&H FHD" tvg-logo="http://brla.me/Discovery%20Home%20&%20Health.png" group-title="Canais | Discovery",Discovery H&H FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69527
+#EXTINF:-1 tvg-id="DiscoveryHH" tvg-name="Discovery H&H FHD [H265]" tvg-logo="http://brla.me/Discovery%20Home%20&%20Health.png" group-title="Canais | Discovery",Discovery H&H FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77684
+#EXTINF:-1 tvg-id="DiscoveryHH" tvg-name="Discovery H&H HD" tvg-logo="http://brla.me/Discovery%20Home%20&%20Health.png" group-title="Canais | Discovery",Discovery H&H HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69528
+#EXTINF:-1 tvg-id="DiscoveryHH" tvg-name="Discovery H&H SD" tvg-logo="http://brla.me/Discovery%20Home%20&%20Health.png" group-title="Canais | Discovery",Discovery H&H SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69529
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="Discovery HGTV FHD" tvg-logo="http://brla.me/HGTV.png" group-title="Canais | Discovery",Discovery HGTV FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/92780
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HGTV FHD²" tvg-logo="http://brla.me/HGTV.png" group-title="Canais | Discovery",Discovery HGTV FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/106605
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="Discovery HGTV FHD [H265]" tvg-logo="http://brla.me/HGTV.png" group-title="Canais | Discovery",Discovery HGTV FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77683
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="Discovery HGTV HD" tvg-logo="http://brla.me/HGTV.png" group-title="Canais | Discovery",Discovery HGTV HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/614
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="Discovery HGTV HD²" tvg-logo="http://brla.me/HGTV.png" group-title="Canais | Discovery",Discovery HGTV HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/106606
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="Discovery HGTV SD" tvg-logo="http://brla.me/HGTV.png" group-title="Canais | Discovery",Discovery HGTV SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/299
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery HGTV SD²" tvg-logo="http://brla.me/HGTV.png" group-title="Canais | Discovery",Discovery HGTV SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/106607
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids FHD" tvg-logo="http://brla.me/Discovery%20Kids.png" group-title="Canais | Infantis",Discovery Kids FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69490
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids FHD²" tvg-logo="http://brla.me/Discovery%20Kids.png" group-title="Canais | Infantis",Discovery Kids FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101918
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids FHD [H265]" tvg-logo="http://brla.me/Discovery%20Kids.png" group-title="Canais | Infantis",Discovery Kids FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77685
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="http://brla.me/Discovery%20Kids.png" group-title="Canais | Infantis",Discovery Kids HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69491
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids HD²" tvg-logo="http://brla.me/Discovery%20Kids.png" group-title="Canais | Infantis",Discovery Kids HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101919
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids SD" tvg-logo="http://brla.me/Discovery%20Kids.png" group-title="Canais | Infantis",Discovery Kids SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69492
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids SD²" tvg-logo="http://brla.me/Discovery%20Kids.png" group-title="Canais | Infantis",Discovery Kids SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101920
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science FHD" tvg-logo="http://brla.me/Discovery%20Science.png" group-title="Canais | Discovery",Discovery Science FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69530
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science FHD²" tvg-logo="http://brla.me/Discovery%20Science.png" group-title="Canais | Discovery",Discovery Science FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/106593
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science FHD [H265]" tvg-logo="http://brla.me/Discovery%20Science.png" group-title="Canais | Discovery",Discovery Science FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77686
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD" tvg-logo="http://brla.me/Discovery%20Science.png" group-title="Canais | Discovery",Discovery Science HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69531
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD²" tvg-logo="http://brla.me/Discovery%20Science.png" group-title="Canais | Discovery",Discovery Science HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/106594
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science SD" tvg-logo="http://brla.me/Discovery%20Science.png" group-title="Canais | Discovery",Discovery Science SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69532
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science SD²" tvg-logo="http://brla.me/Discovery%20Science.png" group-title="Canais | Discovery",Discovery Science SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/106595
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater FHD" tvg-logo="http://brla.me/Discovery%20Theater.png" group-title="Canais | Discovery",Discovery Theater FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69533
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater FHD²" tvg-logo="http://brla.me/Discovery%20Theater.png" group-title="Canais | Discovery",Discovery Theater FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/106596
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater FHD [H265]" tvg-logo="http://brla.me/Discovery%20Theater.png" group-title="Canais | Discovery",Discovery Theater FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77687
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater HD" tvg-logo="http://brla.me/Discovery%20Theater.png" group-title="Canais | Discovery",Discovery Theater HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69537
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater HD²" tvg-logo="http://brla.me/Discovery%20Theater.png" group-title="Canais | Discovery",Discovery Theater HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/106597
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater SD" tvg-logo="http://brla.me/Discovery%20Theater.png" group-title="Canais | Discovery",Discovery Theater SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69534
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater SD²" tvg-logo="http://brla.me/Discovery%20Theater.png" group-title="Canais | Discovery",Discovery Theater SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/106598
+#EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-name="Discovery Turbo FHD" tvg-logo="http://brla.me/Discovery%20Turbo.png" group-title="Canais | Discovery",Discovery Turbo FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69566
+#EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-name="Discovery Turbo FHD²" tvg-logo="http://brla.me/Discovery%20Turbo.png" group-title="Canais | Discovery",Discovery Turbo FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/106648
+#EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-name="Discovery Turbo FHD [H265]" tvg-logo="http://brla.me/Discovery%20Turbo.png" group-title="Canais | Discovery",Discovery Turbo FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77688
+#EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-name="Discovery Turbo HD" tvg-logo="http://brla.me/Discovery%20Turbo.png" group-title="Canais | Discovery",Discovery Turbo HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69567
+#EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-name="Discovery Turbo HD²" tvg-logo="http://brla.me/Discovery%20Turbo.png" group-title="Canais | Discovery",Discovery Turbo HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/106649
+#EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-name="Discovery Turbo SD" tvg-logo="http://brla.me/Discovery%20Turbo.png" group-title="Canais | Discovery",Discovery Turbo SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/621
+#EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-name="Discovery Turbo SD²" tvg-logo="http://brla.me/Discovery%20Turbo.png" group-title="Canais | Discovery",Discovery Turbo SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/106650
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World FHD" tvg-logo="http://brla.me/Discovery%20World.png" group-title="Canais | Discovery",Discovery World FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69568
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World FHD²" tvg-logo="http://brla.me/Discovery%20World.png" group-title="Canais | Discovery",Discovery World FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/106599
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World FHD [H265]" tvg-logo="http://brla.me/Discovery%20World.png" group-title="Canais | Discovery",Discovery World FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77689
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World HD" tvg-logo="http://brla.me/Discovery%20World.png" group-title="Canais | Discovery",Discovery World HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69569
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World HD²" tvg-logo="http://brla.me/Discovery%20World.png" group-title="Canais | Discovery",Discovery World HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/106600
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World SD" tvg-logo="http://brla.me/Discovery%20World.png" group-title="Canais | Discovery",Discovery World SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69570
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World SD²" tvg-logo="http://brla.me/Discovery%20World.png" group-title="Canais | Discovery",Discovery World SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/106601
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel FHD" tvg-logo="http://brla.me/Disney%20Channel.png" group-title="Canais | Infantis",Disney Channel FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69493
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel FHD²" tvg-logo="http://brla.me/Disney%20Channel.png" group-title="Canais | Infantis",Disney Channel FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101921
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel FHD [H265]" tvg-logo="http://brla.me/Disney%20Channel.png" group-title="Canais | Infantis",Disney Channel FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77690
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel HD" tvg-logo="http://brla.me/Disney%20Channel.png" group-title="Canais | Infantis",Disney Channel HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69494
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel HD²" tvg-logo="http://brla.me/Disney%20Channel.png" group-title="Canais | Infantis",Disney Channel HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101922
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel SD" tvg-logo="http://brla.me/Disney%20Channel.png" group-title="Canais | Infantis",Disney Channel SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69495
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel SD²" tvg-logo="http://brla.me/Disney%20Channel.png" group-title="Canais | Infantis",Disney Channel SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101923
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney Jr FHD" tvg-logo="http://brla.me/Disney%20Jr..png" group-title="Canais | Infantis",Disney Jr FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69496
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney Jr FHD²" tvg-logo="http://brla.me/Disney%20Jr..png" group-title="Canais | Infantis",Disney Jr FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101924
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney Jr FHD [H265]" tvg-logo="http://brla.me/Disney%20Jr..png" group-title="Canais | Infantis",Disney Jr FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77691
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney Jr HD" tvg-logo="http://brla.me/Disney%20Jr..png" group-title="Canais | Infantis",Disney Jr HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69497
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney Jr HD²" tvg-logo="http://brla.me/Disney%20Jr..png" group-title="Canais | Infantis",Disney Jr HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101925
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney Jr SD" tvg-logo="http://brla.me/Disney%20Jr..png" group-title="Canais | Infantis",Disney Jr SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69498
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney Jr SD²" tvg-logo="http://brla.me/Disney%20Jr..png" group-title="Canais | Infantis",Disney Jr SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101926
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney XD FHD" tvg-logo="http://brla.me/Disney%20XD.png" group-title="Canais | Infantis",Disney XD FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69499
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney XD FHD²" tvg-logo="http://brla.me/Disney%20XD.png" group-title="Canais | Infantis",Disney XD FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101927
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney XD HD" tvg-logo="http://brla.me/Disney%20XD.png" group-title="Canais | Infantis",Disney XD HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69500
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney XD HD²" tvg-logo="http://brla.me/Disney%20XD.png" group-title="Canais | Infantis",Disney XD HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101928
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney XD SD" tvg-logo="http://brla.me/Disney%20XD.png" group-title="Canais | Infantis",Disney XD SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69501
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney XD SD²" tvg-logo="http://brla.me/Disney%20XD.png" group-title="Canais | Infantis",Disney XD SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/101929
+#EXTINF:-1 tvg-id="" tvg-name="Dog TV HD²" tvg-logo="http://brla.me/Dog%20TV.png" group-title="Canais | Variedades",Dog TV HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/111024
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD" tvg-logo="http://brla.me/E!%20Entertainment.png" group-title="Canais | Variedades",E! FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/74610
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD [H265]" tvg-logo="http://brla.me/E!%20Entertainment.png" group-title="Canais | Variedades",E! FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77692
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="http://brla.me/E!%20Entertainment.png" group-title="Canais | Variedades",E! HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/919
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD²" tvg-logo="http://brla.me/E!%20Entertainment.png" group-title="Canais | Variedades",E! HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/111083
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="http://brla.me/E!%20Entertainment.png" group-title="Canais | Variedades",E! SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/920
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD²" tvg-logo="http://brla.me/E!%20Entertainment.png" group-title="Canais | Variedades",E! SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/111084
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 01 HD" tvg-logo="http://brla.me/Eleven%20Sports.png" group-title="Canais | Pay-Per-View",Eleven Sports 01 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133518
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 02 HD" tvg-logo="http://brla.me/Eleven%20Sports.png" group-title="Canais | Pay-Per-View",Eleven Sports 02 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133519
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 03 HD" tvg-logo="http://brla.me/Eleven%20Sports.png" group-title="Canais | Pay-Per-View",Eleven Sports 03 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133520
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 04 HD" tvg-logo="http://brla.me/Eleven%20Sports.png" group-title="Canais | Pay-Per-View",Eleven Sports 04 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133521
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 05 HD" tvg-logo="http://brla.me/Eleven%20Sports.png" group-title="Canais | Pay-Per-View",Eleven Sports 05 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133522
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN FHD" tvg-logo="http://brla.me/ESPN.png" group-title="Canais | Esportes",ESPN FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/70054
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN FHD²" tvg-logo="http://brla.me/ESPN.png" group-title="Canais | Esportes",ESPN FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103921
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN FHD [H265]" tvg-logo="http://brla.me/ESPN.png" group-title="Canais | Esportes",ESPN FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77694
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="http://brla.me/ESPN.png" group-title="Canais | Esportes",ESPN HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/70055
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD²" tvg-logo="http://brla.me/ESPN.png" group-title="Canais | Esportes",ESPN HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103922
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN SD" tvg-logo="http://brla.me/ESPN.png" group-title="Canais | Esportes",ESPN SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/70056
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN SD²" tvg-logo="http://brla.me/ESPN.png" group-title="Canais | Esportes",ESPN SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103923
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2 FHD" tvg-logo="http://brla.me/ESPN%202.png" group-title="Canais | Esportes",ESPN 2 FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/70046
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2 FHD²" tvg-logo="http://brla.me/ESPN%202.png" group-title="Canais | Esportes",ESPN 2 FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103913
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2 FHD [H265]" tvg-logo="http://brla.me/ESPN%202.png" group-title="Canais | Esportes",ESPN 2 FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77695
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2 HD" tvg-logo="http://brla.me/ESPN%202.png" group-title="Canais | Esportes",ESPN 2 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/70047
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2 HD²" tvg-logo="http://brla.me/ESPN%202.png" group-title="Canais | Esportes",ESPN 2 HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103914
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2 SD" tvg-logo="http://brla.me/ESPN%202.png" group-title="Canais | Esportes",ESPN 2 SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/70048
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2 SD²" tvg-logo="http://brla.me/ESPN%202.png" group-title="Canais | Esportes",ESPN 2 SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103915
+#EXTINF:-1 tvg-id="ESPNBrasil" tvg-name="ESPN Brasil FHD" tvg-logo="http://brla.me/ESPN%20Brasil.png" group-title="Canais | Esportes",ESPN Brasil FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/846
+#EXTINF:-1 tvg-id="ESPNBrasil" tvg-name="ESPN Brasil FHD²" tvg-logo="http://brla.me/ESPN%20Brasil.png" group-title="Canais | Esportes",ESPN Brasil FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103916
+#EXTINF:-1 tvg-id="ESPNBrasil" tvg-name="ESPN Brasil FHD [H265]" tvg-logo="http://brla.me/ESPN%20Brasil.png" group-title="Canais | Esportes",ESPN Brasil FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77696
+#EXTINF:-1 tvg-id="ESPNBrasil" tvg-name="ESPN Brasil HD" tvg-logo="http://brla.me/ESPN%20Brasil.png" group-title="Canais | Esportes",ESPN Brasil HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/239
+#EXTINF:-1 tvg-id="ESPNBrasil" tvg-name="ESPN Brasil HD²" tvg-logo="http://brla.me/ESPN%20Brasil.png" group-title="Canais | Esportes",ESPN Brasil HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103917
+#EXTINF:-1 tvg-id="ESPNBrasil" tvg-name="ESPN Brasil SD" tvg-logo="http://brla.me/ESPN%20Brasil.png" group-title="Canais | Esportes",ESPN Brasil SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/70050
+#EXTINF:-1 tvg-id="ESPNBrasil" tvg-name="ESPN Brasil SD²" tvg-logo="http://brla.me/ESPN%20Brasil.png" group-title="Canais | Esportes",ESPN Brasil SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103918
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra FHD" tvg-logo="http://brla.me/ESPN%20Extra.png" group-title="Canais | Esportes",ESPN Extra FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/74606
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra FHD [H265]" tvg-logo="http://brla.me/ESPN%20Extra.png" group-title="Canais | Esportes",ESPN Extra FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77693
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD" tvg-logo="http://brla.me/ESPN%20Extra.png" group-title="Canais | Esportes",ESPN Extra HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/70052
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD²" tvg-logo="http://brla.me/ESPN%20Extra.png" group-title="Canais | Esportes",ESPN Extra HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103919
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra SD" tvg-logo="http://brla.me/ESPN%20Extra.png" group-title="Canais | Esportes",ESPN Extra SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/70053
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra SD²" tvg-logo="http://brla.me/ESPN%20Extra.png" group-title="Canais | Esportes",ESPN Extra SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103920
+#EXTINF:-1 tvg-id="" tvg-name="F1 TV" tvg-logo="http://assets.materialup.com/uploads/d6522050-2ab3-4c75-945c-90fbb0ddd5ac/preview.jpg" group-title="Canais | Pay-Per-View",F1 TV
+http://tbsrv.me:8880/marcusmesquita1/58264726/127130
+#EXTINF:-1 tvg-id="" tvg-name="FashionTV HD²" tvg-logo="http://brla.me/Fashion%20TV.png" group-title="Canais | Variedades",FashionTV HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/111085
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV FHD" tvg-logo="http://brla.me/Fashion%20TV.png" group-title="Canais | Variedades",Fish TV FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/74611
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV FHD [H265]" tvg-logo="http://brla.me/Fashion%20TV.png" group-title="Canais | Variedades",Fish TV FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77697
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV HD" tvg-logo="http://brla.me/Fashion%20TV.png" group-title="Canais | Variedades",Fish TV HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69767
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV HD²" tvg-logo="http://brla.me/Fashion%20TV.png" group-title="Canais | Variedades",Fish TV HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/111086
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD" tvg-logo="http://brla.me/Fashion%20TV.png" group-title="Canais | Variedades",Fish TV SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69768
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD²" tvg-logo="http://brla.me/Fashion%20TV.png" group-title="Canais | Variedades",Fish TV SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/111087
+#EXTINF:-1 tvg-id="" tvg-name="FlaTV 1 HD" tvg-logo="http://www.kindpng.com/picc/m/19-197423_transparent-inscreva-se-png-fla-tv-png-png.png" group-title="Canais | Pay-Per-View",FlaTV 1 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69957
+#EXTINF:-1 tvg-id="" tvg-name="FlaTV 2 HD" tvg-logo="http://www.kindpng.com/picc/m/19-197423_transparent-inscreva-se-png-fla-tv-png-png.png" group-title="Canais | Pay-Per-View",FlaTV 2 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133490
+#EXTINF:-1 tvg-id="" tvg-name="FlaTV 3 HD" tvg-logo="http://www.kindpng.com/picc/m/19-197423_transparent-inscreva-se-png-fla-tv-png-png.png" group-title="Canais | Pay-Per-View",FlaTV 3 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133491
+#EXTINF:-1 tvg-id="" tvg-name="FlaTV 4 HD" tvg-logo="http://www.kindpng.com/picc/m/19-197423_transparent-inscreva-se-png-fla-tv-png-png.png" group-title="Canais | Pay-Per-View",FlaTV 4 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133492
+#EXTINF:-1 tvg-id="" tvg-name="FlaTV 5 HD" tvg-logo="http://www.kindpng.com/picc/m/19-197423_transparent-inscreva-se-png-fla-tv-png-png.png" group-title="Canais | Pay-Per-View",FlaTV 5 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133493
+#EXTINF:-1 tvg-id="" tvg-name="Flu TV HDR" tvg-logo="http://s0t.biz/Fl" group-title="Canais | Pay-Per-View",Flu TV HDR
+http://tbsrv.me:8880/marcusmesquita1/58264726/76352
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Food Network FHD" tvg-logo="http://brla.me/Food%20Network.png" group-title="Canais | Variedades",Food Network FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/848
+#EXTINF:-1 tvg-id="" tvg-name="Food Network FHD²" tvg-logo="http://brla.me/Food%20Network.png" group-title="Canais | Variedades",Food Network FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/111088
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Food Network FHD [H265]" tvg-logo="http://brla.me/Food%20Network.png" group-title="Canais | Variedades",Food Network FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77698
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Food Network HD" tvg-logo="http://brla.me/Food%20Network.png" group-title="Canais | Variedades",Food Network HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69770
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Food Network HD²" tvg-logo="http://brla.me/Food%20Network.png" group-title="Canais | Variedades",Food Network HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/111089
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Food Network SD" tvg-logo="http://brla.me/Food%20Network.png" group-title="Canais | Variedades",Food Network SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69771
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Food Network SD²" tvg-logo="http://brla.me/Food%20Network.png" group-title="Canais | Variedades",Food Network SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/111090
+#EXTINF:-1 tvg-id="FOX" tvg-name="Fox Channel FHD" tvg-logo="http://brla.me/Fox%20Channel.png" group-title="Canais | Filmes e Series",Fox Channel FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69536
+#EXTINF:-1 tvg-id="FOX" tvg-name="Fox FHD²" tvg-logo="http://brla.me/Fox.png" group-title="Canais | Filmes e Series",Fox FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103866
+#EXTINF:-1 tvg-id="FOX" tvg-name="Fox Channel FHD [H265]" tvg-logo="http://brla.me/Fox%20Channel.png" group-title="Canais | Filmes e Series",Fox Channel FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77699
+#EXTINF:-1 tvg-id="FOX" tvg-name="Fox Channel HD" tvg-logo="http://brla.me/Fox%20Channel.png" group-title="Canais | Filmes e Series",Fox Channel HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69669
+#EXTINF:-1 tvg-id="FOX" tvg-name="Fox HD²" tvg-logo="http://brla.me/Fox.png" group-title="Canais | Filmes e Series",Fox HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103867
+#EXTINF:-1 tvg-id="FOX" tvg-name="Fox Channel SD" tvg-logo="http://brla.me/Fox%20Channel.png" group-title="Canais | Filmes e Series",Fox Channel SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69626
+#EXTINF:-1 tvg-id="FOX" tvg-name="Fox SD²" tvg-logo="http://brla.me/Fox.png" group-title="Canais | Filmes e Series",Fox SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103877
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="Fox Life FHD" tvg-logo="http://brla.me/Fox%20Life.png" group-title="Canais | Filmes e Series",Fox Life FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69538
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="Fox Life FHD²" tvg-logo="http://brla.me/Fox%20Life.png" group-title="Canais | Filmes e Series",Fox Life FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103868
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="Fox Life HD" tvg-logo="http://brla.me/Fox%20Life.png" group-title="Canais | Filmes e Series",Fox Life HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69647
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="Fox Life HD²" tvg-logo="http://brla.me/Fox%20Life.png" group-title="Canais | Filmes e Series",Fox Life HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103869
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="Fox Life SD" tvg-logo="http://brla.me/Fox%20Life.png" group-title="Canais | Filmes e Series",Fox Life SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69772
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="Fox Life SD²" tvg-logo="http://brla.me/Fox%20Life.png" group-title="Canais | Filmes e Series",Fox Life SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103870
+#EXTINF:-1 tvg-id="" tvg-name="Fox News FHD" tvg-logo="http://brla.me/Fox%20News.png" group-title="Canais | Noticias",Fox News FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/92781
+#EXTINF:-1 tvg-id="" tvg-name="Fox News HD" tvg-logo="http://brla.me/Fox%20News.png" group-title="Canais | Noticias",Fox News HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/92782
+#EXTINF:-1 tvg-id="" tvg-name="Fox News SD" tvg-logo="http://brla.me/Fox%20News.png" group-title="Canais | Noticias",Fox News SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/92783
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium 1 FHD" tvg-logo="http://brla.me/Fox%20Premium%201.png" group-title="Canais | Filmes e Series",Fox Premium 1 FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69539
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium 1 FHD²" tvg-logo="http://brla.me/Fox%20Premium%201.png" group-title="Canais | Filmes e Series",Fox Premium 1 FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103871
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium 1 FHD [H265]" tvg-logo="http://brla.me/Fox%20Premium%201.png" group-title="Canais | Filmes e Series",Fox Premium 1 FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77700
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium 1 HD" tvg-logo="http://brla.me/Fox%20Premium%201.png" group-title="Canais | Filmes e Series",Fox Premium 1 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69670
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium 1 HD²" tvg-logo="http://brla.me/Fox%20Premium%201.png" group-title="Canais | Filmes e Series",Fox Premium 1 HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103872
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium 1 SD" tvg-logo="http://brla.me/Fox%20Premium%201.png" group-title="Canais | Filmes e Series",Fox Premium 1 SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69645
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium 1 SD²" tvg-logo="http://brla.me/Fox%20Premium%201.png" group-title="Canais | Filmes e Series",Fox Premium 1 SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103873
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium 2 FHD" tvg-logo="http://brla.me/Fox%20Premium%202.png" group-title="Canais | Filmes e Series",Fox Premium 2 FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69540
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium 2 FHD²" tvg-logo="http://brla.me/Fox%20Premium%202.png" group-title="Canais | Filmes e Series",Fox Premium 2 FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103874
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium 2 FHD [H265]" tvg-logo="http://brla.me/Fox%20Premium%202.png" group-title="Canais | Filmes e Series",Fox Premium 2 FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77701
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium 2 HD" tvg-logo="http://brla.me/Fox%20Premium%202.png" group-title="Canais | Filmes e Series",Fox Premium 2 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69648
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium 2 HD²" tvg-logo="http://brla.me/Fox%20Premium%202.png" group-title="Canais | Filmes e Series",Fox Premium 2 HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103875
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium 2 SD" tvg-logo="http://brla.me/Fox%20Premium%202.png" group-title="Canais | Filmes e Series",Fox Premium 2 SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69644
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium 2 SD²" tvg-logo="http://brla.me/Fox%20Premium%202.png" group-title="Canais | Filmes e Series",Fox Premium 2 SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103876
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports FHD [H265]" tvg-logo="http://brla.me/Fox%20Sports.png" group-title="Canais | Esportes",Fox Sports FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77702
+#EXTINF:-1 tvg-id="FoxSports2" tvg-name="Fox Sports 2 FHD [H265]" tvg-logo="http://brla.me/Fox%20Sports%202.png" group-title="Canais | Esportes",Fox Sports 2 FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77703
+#EXTINF:-1 tvg-id="" tvg-name="Furacão Live 1 HD" tvg-logo="http://brla.me/furacaolive.jpg" group-title="Canais | Pay-Per-View",Furacão Live 1 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133592
+#EXTINF:-1 tvg-id="" tvg-name="Furacão Live 2 HD" tvg-logo="http://brla.me/furacaolive.jpg" group-title="Canais | Pay-Per-View",Furacão Live 2 HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/133593
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura HD²" tvg-logo="http://brla.me/Futura.png" group-title="Canais | Abertos",Futura HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/70148
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura SD²" tvg-logo="http://brla.me/Futura.png" group-title="Canais | Abertos",Futura SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/70159
+#EXTINF:-1 tvg-id="FX" tvg-name="FX FHD" tvg-logo="http://brla.me/FX.png" group-title="Canais | Filmes e Series",FX FHD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69553
+#EXTINF:-1 tvg-id="FX" tvg-name="FX FHD²" tvg-logo="http://brla.me/FX.png" group-title="Canais | Filmes e Series",FX FHD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103878
+#EXTINF:-1 tvg-id="FX" tvg-name="FX FHD [H265]" tvg-logo="http://brla.me/FX.png" group-title="Canais | Filmes e Series",FX FHD [H265]
+http://tbsrv.me:8880/marcusmesquita1/58264726/77704
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://brla.me/FX.png" group-title="Canais | Filmes e Series",FX HD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69679
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD²" tvg-logo="http://brla.me/FX.png" group-title="Canais | Filmes e Series",FX HD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103879
+#EXTINF:-1 tvg-id="FX" tvg-name="FX SD" tvg-logo="http://brla.me/FX.png" group-title="Canais | Filmes e Series",FX SD
+http://tbsrv.me:8880/marcusmesquita1/58264726/69583
+#EXTINF:-1 tvg-id="FX" tvg-name="FX SD²" tvg-logo="http://brla.me/FX.png" group-title="Canais | Filmes e Series",FX SD²
+http://tbsrv.me:8880/marcusmesquita1/58264726/103880
+
+
+
+✓✓✓✓✓✓✓✓✓✓✓✓ BR sky ✓✓✓✓✓✓✓✓✓✓✓✓
+
+
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR001A&EBR.png" group-title="BR Filmes e Series", (OFFLINE) BR001:A&E HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2531
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR005AXNBR.png" group-title="BR Filmes e Series", (OFFLINE) BR005:AXN HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2527
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR014CinemaxBR.png" group-title="BR Filmes e Series", (ONLINE) BR014:Cinemax HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2518
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR038FoxBR.png" group-title="BR Filmes e Series", (ONLINE) BR038:Fox HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2494
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR040FoxPermium1.png" group-title="BR Filmes e Series", (OFFLINE) BR040:Fox Permium 1 HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2492
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR041FoxPremium2.png" group-title="BR Filmes e Series", (ONLINE) BR041:Fox Premium 2 HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2491
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR044FXBR.png" group-title="BR Filmes e Series", (OFFLINE) BR044:FX HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2488
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR061Max.png" group-title="BR Filmes e Series", (OFFLINE) BR061:Max
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2471
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR064MegaPix.png" group-title="BR Filmes e Series", (ONLINE) BR064:MegaPix HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2468
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR074ParamountBR.png" group-title="BR Filmes e Series", (OFFLINE) BR074:Paramount Channel HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2458
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR090StudioUniversal.png" group-title="BR Filmes e Series", (ONLINE) BR090:Studio Universal HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2442
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR091SYFYBR.png" group-title="BR Filmes e Series", (ONLINE) BR091:SYFY HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2441
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR099TLCBR.png" group-title="BR Filmes e Series", (OFFLINE) BR099:TLC HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2433
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR092TBSBR.png" group-title="BR Filmes e Series", (OFFLINE) BR092:TBS HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2440
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR162FoxFHD.png" group-title="BR Filmes e Series", (OFFLINE) BR162:Fox FHD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65717
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR164FoxPremium1FHD.png" group-title="BR Filmes e Series", (OFFLINE) BR164:Fox Premium 1 FHD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65719
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR174FxSD.png" group-title="BR Filmes e Series", (ONLINE) BR174:Fx SD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65729
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR264VivaFHD.png" group-title="BR Variedades", (OFFLINE) BR264:Viva FHD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65819
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR100TNTBR.png" group-title="BR Filmes e Series", (ONLINE) BR100:TNT HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2432
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR101TNTSeriesBR.png" group-title="BR Filmes e Series", (ONLINE) BR101:TNT Series  HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2431
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR102TVRaTimBum.png" group-title="BR Infantis", (ONLINE) BR102:TV Ra Tim Bum
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2430
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR015Combate.png" group-title="BR Esportes", (OFFLINE) BR015:Combate HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2517
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR033ESPN.png" group-title="BR Esportes", (OFFLINE) BR033:ESPN HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2499
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR030ESPNExtra.png" group-title="BR Esportes", (ONLINE) BR030:ESPN Extra HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2502
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR073OFF.png" group-title="BR Esportes", (OFFLINE) BR073:Off HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2459
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR088SportTV3.png" group-title="BR Esportes", (ONLINE) BR088:Sport TV 3 HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2444
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR087SportTV2.png" group-title="BR Esportes", (ONLINE) BR087:Sport TV 2 HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2445
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR089SportTV1.png" group-title="BR Esportes", (OFFLINE) BR089:Sport TV 1 HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2443
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR034PFC.png" group-title="BR Esportes", (OFFLINE) BR034:PFC HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2498
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR268WoohooSD.png" group-title="BR Esportes", (OFFLINE) BR268:Woohoo FHD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65823
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR010BISBR.png" group-title="BR Musicas", (ONLINE) BR010:BIS HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2522
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR205MtvFHD.png" group-title="BR Musicas", (ONLINE) BR205:Mtv FHD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65760
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR065MTVBR.png" group-title="BR Musicas", (OFFLINE) BR065:MTV HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2467
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR209MusicBoxSD.png" group-title="BR Musicas", (OFFLINE) BR209:Music Box SD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65764
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR054HBOBR.png" group-title="BR HBO", (OFFLINE) BR054:HBO HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2478
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR052HBO2BR.png" group-title="BR HBO", (ONLINE) BR052:HBO 2 HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2480
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR055HBOPlusBR.png" group-title="BR HBO", (OFFLINE) BR055:HBO Plus HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2477
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR056HBOSignatureBR.png" group-title="BR HBO", (ONLINE) BR056:HBO Signature HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2476
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR093TelecineAction.png" group-title="BR Telecine", (ONLINE) BR093:Telecine Action HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2439
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR096TelecinePipoca.png" group-title="BR Telecine", (ONLINE) BR096:Telecine Pipoca HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2436
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR098TelecineTouch.png" group-title="BR Telecine", (ONLINE) BR098:Telecine Touch HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2434
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR255TelecineTouchFHD.png" group-title="BR Telecine", (OFFLINE) BR255:Telecine Touch FHD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65810
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR075Premiere2.png" group-title="BR Premiere", (OFFLINE) BR075:Premiere 2 HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2457
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR076Premiere3.png" group-title="BR Premiere", (ONLINE) BR076:Premiere 3 HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2456
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR004Arte1.png" group-title="BR Variedades", (ONLINE) BR004:Arte 1 HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2528
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR110Arte1FHD.png" group-title="BR Variedades", (OFFLINE) BR110:Arte 1 FHD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65665
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR016ComedyCentralBR.png" group-title="BR Variedades", (OFFLINE) BR016:Comedy Central HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2516
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR020DiscoveryHomeHealth.png" group-title="BR Variedades", (OFFLINE) BR020:Discovery Home Health HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2512
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR029E!BR.png" group-title="BR Variedades", (OFFLINE) BR029:E! HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2503
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR039FoxLife.png" group-title="BR Variedades", (OFFLINE) BR039:Fox Life HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2493
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR050GNTBR.png" group-title="BR Variedades", (ONLINE) BR050:GNT HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2482
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR059LifetimeBR.png" group-title="BR Variedades", (OFFLINE) BR059:Lifetime HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2473
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR035VIVABR.png" group-title="BR Variedades", (OFFLINE) BR035:VIVA HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2497
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR108AnimalPlanetFHD.png" group-title="BR Documentarios", (OFFLINE) BR108:Animal Planet HD
+http://a2.skynets.tv:8880/live/wh12m2402/ZKjJsXY4FN/65663.ts
+
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR019DiscoveryCivilization.png" group-title="BR Documentarios", (OFFLINE) BR019:Discovery Civilization HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2513
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR132DiscoveryCivilizationFHD.png" group-title="BR Documentarios", (ONLINE) BR132:Discovery Civilization FHD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65687
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR023DiscoveryTheater.png" group-title="BR Documentarios", (ONLINE) BR023:Discovery Theater HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2509
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR025DiscoveryWORLD.png" group-title="BR Documentarios", (ONLINE) BR025:Discovery World HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2507
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR145DiscoveryWorldFHD.png" group-title="BR Documentarios", (OFFLINE) BR145:Discovery World FHD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65700
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR058IDBR.png" group-title="BR Documentarios", (ONLINE) BR058:Investigacao Discovery HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2474
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR057HistoryBR.png" group-title="BR Documentarios", (ONLINE) BR057:History HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2475
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR213NatGeoWildSD.png" group-title="BR Documentarios", (ONLINE) BR213:Nat Geo Wild SD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65768
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR140DiscoveryTheaterFHD.png" group-title="BR Documentarios", (OFFLINE) BR140:Discovery Theater FHD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65695
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR017BabyTV.png" group-title="BR Infantis", (OFFLINE) BR017:Baby TV HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2515
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR026DisneyBR.png" group-title="BR Infantis", (OFFLINE) BR026:Disney HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2506
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR027DISNEYJRBR.png" group-title="BR Infantis", (OFFLINE) BR027:DISNEY JR HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2505
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR028DisneyXDBR.png" group-title="BR Infantis", (ONLINE) BR028:Disney XD HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2504
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR021DiscoveryKids.png" group-title="BR Infantis", (OFFLINE) BR021:Discovery Kids HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2511
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR049Gloobinho.png" group-title="BR Infantis", (OFFLINE) BR049:Gloobinho HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2483
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR071NICKJRBR.png" group-title="BR Infantis", (ONLINE) BR071:NICK JR HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2461
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR079Premiere6.png" group-title="BR Noticias", (OFFLINE) BR079:CNN BRASIL HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2453
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR007BandNewsBR.png" group-title="BR Noticias", (OFFLINE) BR007:Band News HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2525
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR045GloboNewsBR.png" group-title="BR Noticias", (OFFLINE) BR045:Globo News HD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/2487
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR116BandNewsSD.png" group-title="BR Noticias", (ONLINE) BR116:Band News SD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65671
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR176GloboNewsFHD.png" group-title="BR Noticias", (OFFLINE) BR176:Globo News FHD
+http://acc2.aatvbox.club:8880/wh12m2402/ZKjJsXY4FN/65731
+
