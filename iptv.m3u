@@ -1,0 +1,23 @@
+#EXTM3U
+
+
+############## SKy ####################
+
+#EXTINF:-1 tvg-id="Sky" tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
+
+
+
+#EXTINF:-1 tvg-id="Sky" globo tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", globo
+https://server100.online/globo-sp/tracks-v1a1/mono.m3u8?token=0ec5076c7b7cf4b95023f484ccf77d1849b713a3-b91876099d2261f548dd19e736211020-1672309454-1672305854&remote=143.0.210.215
+
+#EXTINF:-1 tvg-id="Sky" Record tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Record
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+
+#EXTINF:-1 tvg-id="Sky" Record tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Record
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sky" animal-planet tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", animal-planet
+https://server100.online/animal-planet/tracks-v1a1l1/mono.m3u8?token=a55ca9946f9fa31fc3af388c66996db591517cca-a656d8f20b2000121d88f5414a372147-1672309050-1672305450&remote=143.0.210.215
+
+#EXTINF:-1 tvg-id="Sky" HBO tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", HBO
+https://live.embedflix.net/p2p/hbo/chunks.m3u8?nimblesessionid=1527296&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyMiA5OjEwOjUyIEFNJmhhc2hfdmFsdWU9TzRlUjJDQTVHZEhzdk0zVnBDWHRyQT09JnZhbGlkbWludXRlcz05MA==
