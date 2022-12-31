@@ -29,6 +29,10 @@ http://amortud.b-cdn.net/live/band/chunks.m3u8?token=F05qd77Xv6_Sx9IXUoOBh_OT0o5
 #EXTINF:-1 tvg-id="Sky" animal-planet 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", animal-planet 1
 http://amortud.b-cdn.net/live/animalplanet/chunks.m3u8?token=VzL9ghdZxac-HuMl9KHFluIDzHI_JUGjuKgPyfC07_Y&expires=1672406992
 
+#EXTINF:-1 tvg-id="Sky" space 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
+ space 1 
+http://bagainhead.b-cdn.net/live/space/chunks.m3u8?token=PqV1LPmemCggTp0cFSogEVeSnQalcj7WX4ahGmy_xRo&expires=1672563345
+
 #EXTINF:-1 tvg-id="Sky" HBO 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", HBO 1
 http://amortud.b-cdn.net/live/hbo2/chunks.m3u8?token=UZOqG-iBTtBqbn1Gf7NMW8fHuY08edkQBf5V8CptXJo&expires=1672408105
 
