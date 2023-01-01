@@ -61,8 +61,37 @@ http://amortud.b-cdn.net/live/idinvestigacaodiscovery/chunks.m3u8?token=rMQY5xka
 #EXTINF:-1 tvg-id="Sky" TNT 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", TNT 1
 http://amortud.b-cdn.net/live/tnt/chunks.m3u8?token=87mBDgQjJyVQ4NFgTXYrhhTQ54Ksc-Vxbgb6C_ijwP8&expires=1672408105
 
+#EXTINF:-1 tvg-id="Sky" FX 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
+ FX 1 
+http://bagainhead.b-cdn.net/live/fx/chunks.m3u8?token=VPXaY1oSJkiACTADlEMwSkKmWFpfn94QAUCfYoKcFcQ&expires=1672629133
 
+#EXTINF:-1 tvg-id="Sky" viva 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
+ viva 1
+http://bagainhead.b-cdn.net/live/viva/chunks.m3u8?token=y5qs4wV40yvJHSxL_R4uREC_0FCzY7NsSHR4ZKTVeXc&expires=1672627697
 
+#EXTINF:-1 tvg-id="Sky" multishow 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", multishow 1
+
+http://bagainhead.b-cdn.net/live/multishow/chunks.m3u8?token=qWfFm_5hphWm2AuhQUcDfmaO0TuQ-vVHt6vBjGrlNsQ&expires=1672627697
+
+#EXTINF:-1 tvg-id="Sky" foodnetwork 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
+ foodnetwork 1
+http://bagainhead.b-cdn.net/live/foodnetwork/chunks.m3u8?token=G7s8vUWRBnbRX9Hg1f7A2mpbg8s3G7Q2EZ2Ug2QvfgU&expires=1672627697
+
+#EXTINF:-1 tvg-id="Sky" combate 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
+ combate 1
+http://bagainhead.b-cdn.net/live/combate/chunks.m3u8?token=FY-P6LJVQ72vcFeng3rkwbl5lCpRt1NmQG3sl-zEiGQ&expires=1672628376
+
+#EXTINF:-1 tvg-id="Sky" premiereclubes 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
+ premiereclubes 1
+http://bagainhead.b-cdn.net/live/premiereclubes/chunks.m3u8?token=hl53KcAwna9n2X8B8smuN21qFYviLvCqeX6am_Bgx2k&expires=1672628376
+
+#EXTINF:-1 tvg-id="Sky" sportv 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
+ sportv 1
+http://bagainhead.b-cdn.net/live/sportv/chunks.m3u8?token=5CYD03tA_vp_tajopGr1Z_MqiYxy7obMPUz4pc1n1Q8&expires=1672628376
+
+#EXTINF:-1 tvg-id="Sky" espn 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
+ espn 1 
+http://bagainhead.b-cdn.net/live/espn/chunks.m3u8?token=K1svyqT_YSyuNX3oe-8SlvEOKHfsBHqcdbKhR03X-b4&expires=1672628376
 
 
 
