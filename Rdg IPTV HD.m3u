@@ -7,9 +7,6 @@
 #EXTINF:-1 tvg-id="Sky" tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
  
 
-
-
-
 #EXTINF:-1 tvg-id="Sky" globo 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", globo 1
 http://amortud.b-cdn.net/live/globo/chunks.m3u8?token=amX-UpR-Y7QkDHqrQmCGaQcXKCZx7jG79TGLWmY4RLc&expires=1672405890
 
@@ -43,6 +40,10 @@ http://bagainhead.b-cdn.net/live/telecineaction/chunks.m3u8?token=cLTF9pOT7FI3wp
 #EXTINF:-1 tvg-id="Sky" HBO 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", HBO 1
 http://amortud.b-cdn.net/live/hbo2/chunks.m3u8?token=UZOqG-iBTtBqbn1Gf7NMW8fHuY08edkQBf5V8CptXJo&expires=1672408105
 
+#EXTINF:-1 tvg-id="Sky" AXN tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
+AxN
+http://bagainhead.b-cdn.net/live/axn/chunks.m3u8?token=-9DEBk1zE5aHvYZLVc99SuDEbMipXqfTPNQb9jQ6x5E&expires=1672839742
+
 #EXTINF:-1 tvg-id="Sky" discoveryturbo 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", discoveryturbo 1
 http://amortud.b-cdn.net/live/discoveryturbo/chunks.m3u8?token=4IVa1Q8vwEO0nlYaPotPNCx7EyMeASrJ3lBWqYc4j4I&expires=1672407783
 
@@ -60,7 +61,6 @@ http://amortud.b-cdn.net/live/idinvestigacaodiscovery/chunks.m3u8?token=rMQY5xka
 
 #EXTINF:-1 tvg-id="Sky" TNT 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", TNT 1
 http://amortud.b-cdn.net/live/tnt/chunks.m3u8?token=87mBDgQjJyVQ4NFgTXYrhhTQ54Ksc-Vxbgb6C_ijwP8&expires=1672408105
-
 
 #EXTINF:-1 tvg-id="Sky" FX 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
  FX 1 
@@ -92,7 +92,6 @@ http://bagainhead.b-cdn.net/live/sportv/chunks.m3u8?token=5CYD03tA_vp_tajopGr1Z_
 #EXTINF:-1 tvg-id="Sky" espn 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
  espn 1 
 http://bagainhead.b-cdn.net/live/espn/chunks.m3u8?token=K1svyqT_YSyuNX3oe-8SlvEOKHfsBHqcdbKhR03X-b4&expires=1672628376
-
 
 
 
