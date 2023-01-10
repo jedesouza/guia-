@@ -1,0 +1,56 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", globo 1
+http://marilurdrinha.b-cdn.net/live/globo/chunks.m3u8?token=9V-69Y5OBaIONCSliKD52GWCmO6lSx3wuthwjpUJmEQ&expires=1673406047
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Record 1
+http://marilurdrinha.b-cdn.net/live/record/chunks.m3u8?token=W-2ySr2fyk81XOzEvaEpuYOuVUclR_dtUOqZq9Sqx2s&expires=1673406047
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Record 2
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", SBT 1
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", animal-planet 1
+http://marilurdrinha.b-cdn.net/live/animalplanet/chunks.m3u8?token=BjGoaYHS9di4j1zLoc3aERDPVxxRPLMqkKWa0DKAkTs&expires=1673406862
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", space 1
+http://bagainhead.b-cdn.net/live/space/chunks.m3u8?token=PqV1LPmemCggTp0cFSogEVeSnQalcj7WX4ahGmy_xRo&expires=1672563345
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", telecinepremium 1
+http://bagainhead.b-cdn.net/live/telecinepremium/chunks.m3u8?token=JxVxY-tQ89dLwwZiU09le5fqTJdh8BUAjdEWBrBfPkQ&expires=1672571924
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", telecineaction 1
+http://bagainhead.b-cdn.net/live/telecineaction/chunks.m3u8?token=cLTF9pOT7FI3wpOMX0xs8r9Cm5CNHKtiBlHmHFfodAM&expires=1672571924
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", http://bagainhead.b-cdn.net/live/axn/chunks.m3u8?token=-9DEBk1zE5aHvYZLVc99SuDEbMipXqfTPNQb9jQ6x5E&expires=1672839742
+http://bagainhead.b-cdn.net/live/axn/chunks.m3u8?token=-9DEBk1zE5aHvYZLVc99SuDEbMipXqfTPNQb9jQ6x5E&expires=1672839742
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", http://bagainhead.b-cdn.net/live/fx/chunks.m3u8?token=VPXaY1oSJkiACTADlEMwSkKmWFpfn94QAUCfYoKcFcQ&expires=1672629133
+http://bagainhead.b-cdn.net/live/fx/chunks.m3u8?token=VPXaY1oSJkiACTADlEMwSkKmWFpfn94QAUCfYoKcFcQ&expires=1672629133
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", http://bagainhead.b-cdn.net/live/viva/chunks.m3u8?token=y5qs4wV40yvJHSxL_R4uREC_0FCzY7NsSHR4ZKTVeXc&expires=1672627697
+http://bagainhead.b-cdn.net/live/viva/chunks.m3u8?token=y5qs4wV40yvJHSxL_R4uREC_0FCzY7NsSHR4ZKTVeXc&expires=1672627697
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Record 1
+http://marilurdrinha.b-cdn.net/live/record/chunks.m3u8?token=W-2ySr2fyk81XOzEvaEpuYOuVUclR_dtUOqZq9Sqx2s&expires=1673406047
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Record 2
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", SBT 1
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", animal-planet 1
+http://marilurdrinha.b-cdn.net/live/animalplanet/chunks.m3u8?token=BjGoaYHS9di4j1zLoc3aERDPVxxRPLMqkKWa0DKAkTs&expires=1673406862
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", space 1
+http://bagainhead.b-cdn.net/live/space/chunks.m3u8?token=PqV1LPmemCggTp0cFSogEVeSnQalcj7WX4ahGmy_xRo&expires=1672563345
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", telecineaction 1
+http://bagainhead.b-cdn.net/live/telecineaction/chunks.m3u8?token=cLTF9pOT7FI3wpOMX0xs8r9Cm5CNHKtiBlHmHFfodAM&expires=1672571924
+
