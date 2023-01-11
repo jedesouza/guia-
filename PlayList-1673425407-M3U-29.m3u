@@ -1,0 +1,92 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", BBB Casa de vidro1
+http://marilurdrinha.b-cdn.net/live/bbbcam1/chunks.m3u8?token=jxGcPfn0Q2vTJdTV9VLo0xo_zLS3qTmeJBnHK9Gc450&expires=1673464893
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", globo 1
+http://marilurdrinha.b-cdn.net/live/globo/chunks.m3u8?token=9V-69Y5OBaIONCSliKD52GWCmO6lSx3wuthwjpUJmEQ&expires=1673406047
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Gloob 1
+http://marilurdrinha.b-cdn.net/live/gloob/chunks.m3u8?token=jcnC5zj2-YtU_jDyccl2cMO4VBbM70chTui6c6y-z3w&expires=1673465575
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Record 1
+http://marilurdrinha.b-cdn.net/live/record/chunks.m3u8?token=W-2ySr2fyk81XOzEvaEpuYOuVUclR_dtUOqZq9Sqx2s&expires=1673406047
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Record 2
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", SBT 2
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Band 1
+http://marilurdrinha.b-cdn.net/live/band/chunks.m3u8?token=Azqn160tHQn2Khm9THHST6Lp8qha8q0ZtcTBLWkHvMQ&expires=1673465312
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", animal-planet 1
+http://marilurdrinha.b-cdn.net/live/animalplanet/chunks.m3u8?token=BjGoaYHS9di4j1zLoc3aERDPVxxRPLMqkKWa0DKAkTs&expires=1673406862
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", discoverykids 1
+http://marilurdrinha.b-cdn.net/live/discoverykids/chunks.m3u8?token=IpqGAmVoQd-ikS5yqxg4aIyj1I3MEALDhMq1D4whyEw&expires=1673465575
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", space 1
+http://marilurdrinha.b-cdn.net/live/space/chunks.m3u8?token=5aUPDrRRox8KX-IrtLkNtj_-XwyhAYtd4CdUkZT-W0s&expires=1673467608
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", space 2
+http://bagainhead.b-cdn.net/live/space/chunks.m3u8?token=PqV1LPmemCggTp0cFSogEVeSnQalcj7WX4ahGmy_xRo&expires=1672563345
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", telecinepremium 1
+http://marilurdrinha.b-cdn.net/live/telecinepremium/chunks.m3u8?token=oXHIc0a5a27hWxH2CertdgXIYGroUU-OVY7Rmqrz1Mk&expires=1673467608
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", telecinepremium
+http://bagainhead.b-cdn.net/live/telecinepremium/chunks.m3u8?token=JxVxY-tQ89dLwwZiU09le5fqTJdh8BUAjdEWBrBfPkQ&expires=1672571924
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", telecineaction 1
+http://marilurdrinha.b-cdn.net/live/telecineaction/chunks.m3u8?token=haooqZ4ImZbaimGFeEL15SUgVtvjFYhq8epLgy1YuiM&expires=1673467608
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", telecineaction
+http://bagainhead.b-cdn.net/live/telecineaction/chunks.m3u8?token=cLTF9pOT7FI3wpOMX0xs8r9Cm5CNHKtiBlHmHFfodAM&expires=1672571924
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", HBO 1
+http://marilurdrinha.b-cdn.net/live/hbo/chunks.m3u8?token=fdNUWBVE1sZSEmiiEHN-FVvGMS-VIe_4iCyPvlP0NIM&expires=1673466459
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", http://marilurdrinha.b-cdn.net/live/axn/chunks.m3u8?token=LVOQFyyW2HZHq4tQGlhABAR-edJzLyssAtmmS7pE2_E&expires=1673466459
+http://marilurdrinha.b-cdn.net/live/axn/chunks.m3u8?token=LVOQFyyW2HZHq4tQGlhABAR-edJzLyssAtmmS7pE2_E&expires=1673466459
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", http://bagainhead.b-cdn.net/live/axn/chunks.m3u8?token=-9DEBk1zE5aHvYZLVc99SuDEbMipXqfTPNQb9jQ6x5E&expires=1672839742
+http://bagainhead.b-cdn.net/live/axn/chunks.m3u8?token=-9DEBk1zE5aHvYZLVc99SuDEbMipXqfTPNQb9jQ6x5E&expires=1672839742
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", discoveryturbo 1
+http://marilurdrinha.b-cdn.net/live/discoveryturbo/chunks.m3u8?token=BHjEctCpLOZyYZF8FdXQ_2cagow7YU2cZH1xMp96a6U&expires=1673465913
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", /discoverychannel 1
+http://marilurdrinha.b-cdn.net/live/discoverychannel/chunks.m3u8?token=cT9ti0hXb3y8CrqJCTmzFIpowQWzaq5mYqQDnOgteWA&expires=1673465913
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", history 1
+http://marilurdrinha.b-cdn.net/live/history/chunks.m3u8?token=SzJoUGkxPoFi111jjSGTGoKvacocMuyUT2VAf_X-WJs&expires=1673465913
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", series 1
+http://marilurdrinha.b-cdn.net/live/tntseries/chunks.m3u8?token=fQNI1sS0IzgUTX6yps1UltZe9UFzl3BFPmkwAut9kA0&expires=1673466459
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", globo 1
+http://marilurdrinha.b-cdn.net/live/globo/chunks.m3u8?token=9V-69Y5OBaIONCSliKD52GWCmO6lSx3wuthwjpUJmEQ&expires=1673406047
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Gloob 1
+http://marilurdrinha.b-cdn.net/live/gloob/chunks.m3u8?token=jcnC5zj2-YtU_jDyccl2cMO4VBbM70chTui6c6y-z3w&expires=1673465575
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Record 1
+http://marilurdrinha.b-cdn.net/live/record/chunks.m3u8?token=W-2ySr2fyk81XOzEvaEpuYOuVUclR_dtUOqZq9Sqx2s&expires=1673406047
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Record 2
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", SBT 2
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Band 1
+http://marilurdrinha.b-cdn.net/live/band/chunks.m3u8?token=Azqn160tHQn2Khm9THHST6Lp8qha8q0ZtcTBLWkHvMQ&expires=1673465312
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", discoverykids 1
+http://marilurdrinha.b-cdn.net/live/discoverykids/chunks.m3u8?token=IpqGAmVoQd-ikS5yqxg4aIyj1I3MEALDhMq1D4whyEw&expires=1673465575
+
