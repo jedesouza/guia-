@@ -7,8 +7,8 @@
 #EXTINF:-1 tvg-id="Sky" tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
 
 
-#EXTINF:-1 tvg-id="Sky" BBB Casa de vidro1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", BBB Casa de vidro1
-http://marilurdrinha.b-cdn.net/live/bbbcam1/chunks.m3u8?token=jxGcPfn0Q2vTJdTV9VLo0xo_zLS3qTmeJBnHK9Gc450&expires=1673464893
+#EXTINF:-1 tvg-id="Sky" combate tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", combate 
+http://marilurdrinha.b-cdn.net/live/combate/chunks.m3u8?token=0E8HFedyYARcvdqBLx7dAgjjn6VXUXI4-H8XHOq5-6U&expires=1673745706
 
 #EXTINF:-1 tvg-id="Sky" globo 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", globo 1 
 http://marilurdrinha.b-cdn.net/live/globo/chunks.m3u8?token=9V-69Y5OBaIONCSliKD52GWCmO6lSx3wuthwjpUJmEQ&expires=1673406047
