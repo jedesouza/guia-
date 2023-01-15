@@ -49,8 +49,8 @@ http://bagainhead.b-cdn.net/live/telecinepremium/chunks.m3u8?token=JxVxY-tQ89dLw
 #EXTINF:-1 tvg-id="Sky" telecineaction 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",telecineaction 1
 http://marilurdrinha.b-cdn.net/live/telecineaction/chunks.m3u8?token=haooqZ4ImZbaimGFeEL15SUgVtvjFYhq8epLgy1YuiM&expires=1673467608
 
-#EXTINF:-1 tvg-id="Sky" telecineaction  tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",telecineaction 
-http://bagainhead.b-cdn.net/live/telecineaction/chunks.m3u8?token=cLTF9pOT7FI3wpOMX0xs8r9Cm5CNHKtiBlHmHFfodAM&expires=1672571924
+#EXTINF:-1 tvg-id="Sky" telecine pipoca   tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",telecine pipoca 
+http://contentzord.gelderland.ga:2095/live/telecinepipoca/chunks.m3u8?token=78ewq45qew12sdd
 
 #EXTINF:-1 tvg-id="Sky" HBO 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", HBO 1
 http://marilurdrinha.b-cdn.net/live/hbo/chunks.m3u8?token=fdNUWBVE1sZSEmiiEHN-FVvGMS-VIe_4iCyPvlP0NIM&expires=1673466459
