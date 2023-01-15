@@ -52,10 +52,10 @@ http://marilurdrinha.b-cdn.net/live/telecineaction/chunks.m3u8?token=haooqZ4ImZb
 #EXTINF:-1 tvg-id="Sky" telecine pipoca   tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",telecine pipoca 
 http://contentzord.gelderland.ga:2095/live/telecinepipoca/chunks.m3u8?token=78ewq45qew12sdd
 
-#EXTINF:-1 tvg-id="Sky" HBO 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", HBO 1
-http://marilurdrinha.b-cdn.net/live/hbo/chunks.m3u8?token=fdNUWBVE1sZSEmiiEHN-FVvGMS-VIe_4iCyPvlP0NIM&expires=1673466459
+#EXTINF:-1 tvg-id="Sky" Mega pix tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Mega pix 
+http://contentzord.gelderland.ga:2095/live/megapix/chunks.m3u8?token=78ewq45qew12sdd
 
-#EXTINF:-1 tvg-id="Sky" HBO 2 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", HBO 2 
+#EXTINF:-1 tvg-id="Sky" HBO 2  tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", HBO 2
 http://contentzord.gelderland.ga:2095/live/hbo2/chunks.m3u8?token=78ewq45qew12sdd
 
 #EXTINF:-1 tvg-id="Sky" AXN 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
