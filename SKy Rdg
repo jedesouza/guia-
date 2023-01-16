@@ -40,7 +40,7 @@ http://marilurdrinha.b-cdn.net/live/space/chunks.m3u8?token=5aUPDrRRox8KX-IrtLkN
 #EXTINF:-1 tvg-id="Sky" telecinepremium 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",telecinepremium 1
 http://marilurdrinha.b-cdn.net/live/telecinepremium/chunks.m3u8?token=oXHIc0a5a27hWxH2CertdgXIYGroUU-OVY7Rmqrz1Mk&expires=1673467608
 
-#EXTINF:-1 tvg-id="Sky" universal Chanel  tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", universal Chanel 
+#EXTINF:-1 tvg-id="Sky" Studio universal  tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Studio universal 
 http://contentzord.gelderland.ga:2095/live/universalchannel/chunks.m3u8?token=78ewq45qew12sdd
 
 #EXTINF:-1 tvg-id="Sky" telecineaction 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",telecineaction 1
