@@ -31,6 +31,9 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="Sky" Band 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Band 1
 http://marilurdrinha.b-cdn.net/live/band/chunks.m3u8?token=Azqn160tHQn2Khm9THHST6Lp8qha8q0ZtcTBLWkHvMQ&expires=1673465312
 
+#EXTINF:-1 tvg-id="Sky" Rede TV tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Rede TV 
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w466198670_b1126087.m3u8
+
 #EXTINF:-1 tvg-id="Sky" TV Diário tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", TV Diário 
 https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZdrJLwd5HwDAqzgzas3fDf6I0hU8YkvQU6LtrioMBMWM)/dm/3/x7txn7q/s/live-0.m3u8#cell=lnyc
 
