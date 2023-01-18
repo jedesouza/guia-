@@ -23,6 +23,9 @@ http://marilurdrinha.b-cdn.net/live/gloob/chunks.m3u8?token=jcnC5zj2-YtU_jDyccl2
 #EXTINF:-1 tvg-id="Sky" AniTV tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", AniTV 
 https://stream.ichibantv.ga:3764/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-id="Sky" Record HD tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Record HD
+http://contentzord.gelderland.ga:2095/live/record/chunks.m3u8?token=78ewq45qew12sdd
+
 #EXTINF:-1 tvg-id="Sky" Record  tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Record 
 http://marilurdrinha.b-cdn.net/live/record/chunks.m3u8?token=W-2ySr2fyk81XOzEvaEpuYOuVUclR_dtUOqZq9Sqx2s&expires=1673406047
 
