@@ -7,6 +7,7 @@
 #EXTINF:-1 tvg-id="Sky" tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
 
 
+
 #EXTINF:-1 tvg-id="Sky" combate tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", combate 
 http://marilurdrinha.b-cdn.net/live/combate/chunks.m3u8?token=0E8HFedyYARcvdqBLx7dAgjjn6VXUXI4-H8XHOq5-6U&expires=1673745706
 
@@ -19,10 +20,14 @@ http://marilurdrinha.b-cdn.net/live/gloob/chunks.m3u8?token=jcnC5zj2-YtU_jDyccl2
 #EXTINF:-1 tvg-id="Sky" AniTV tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", AniTV 
 https://stream.ichibantv.ga:3764/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="Sky" Record 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Record 1
-http://marilurdrinha.b-cdn.net/live/record/chunks.m3u8?token=W-2ySr2fyk81XOzEvaEpuYOuVUclR_dtUOqZq9Sqx2s&expires=1673406047
+#EXTINF:-1 tvg-id="Sky" TV Record 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", TV Record 1 
+https://server100.online/record/tracks-v1a1/mono.m3u8?remote=143.0.210.223&token=511708206db357ad811159735f40c4caa6f16403-7815e7c029fbc07708db7f78d9543341-1674024753-1674017553
+
 
 #EXTINF:-1 tvg-id="Sky" Record 2 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Record 2
+http://marilurdrinha.b-cdn.net/live/record/chunks.m3u8?token=W-2ySr2fyk81XOzEvaEpuYOuVUclR_dtUOqZq9Sqx2s&expires=1673406047
+
+#EXTINF:-1 tvg-id="Sky" Record 3 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Record 3 
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
 
 #EXTINF:-1 tvg-id="Sky" SBT 2 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", SBT 2
