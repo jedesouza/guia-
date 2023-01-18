@@ -27,7 +27,6 @@ https://stream.ichibantv.ga:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Sky" TV Record 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", TV Record 1 
 https://server100.online/record/tracks-v1a1/mono.m3u8?remote=143.0.210.223&token=511708206db357ad811159735f40c4caa6f16403-7815e7c029fbc07708db7f78d9543341-1674024753-1674017553
 
-
 #EXTINF:-1 tvg-id="Sky" Record 2 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Record 2
 http://marilurdrinha.b-cdn.net/live/record/chunks.m3u8?token=W-2ySr2fyk81XOzEvaEpuYOuVUclR_dtUOqZq9Sqx2s&expires=1673406047
 
@@ -41,7 +40,7 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 http://marilurdrinha.b-cdn.net/live/band/chunks.m3u8?token=Azqn160tHQn2Khm9THHST6Lp8qha8q0ZtcTBLWkHvMQ&expires=1673465312
 
 #EXTINF:-1 tvg-id="Sky" Rede TV tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Rede TV 
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w466198670_b1126087.m3u8
+https://server100.online/redetv/tracks-v1a1/mono.m3u8?remote=143.0.210.223&token=ad0b72bd793aef52b8f684dae59efa98c789e2b5-2f7b4988e4fda155259a9575adf7cb0d-1674025759-1674018559
 
 #EXTINF:-1 tvg-id="Sky" TV Diário tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", TV Diário 
 https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZdrJLwd5HwDAqzgzas3fDf6I0hU8YkvQU6LtrioMBMWM)/dm/3/x7txn7q/s/live-0.m3u8#cell=lnyc
