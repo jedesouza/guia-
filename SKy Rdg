@@ -14,6 +14,10 @@ http://marilurdrinha.b-cdn.net/live/combate/chunks.m3u8?token=0E8HFedyYARcvdqBLx
 #EXTINF:-1 tvg-id="Sky" globo 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", globo 1 
 http://marilurdrinha.b-cdn.net/live/globo/chunks.m3u8?token=9V-69Y5OBaIONCSliKD52GWCmO6lSx3wuthwjpUJmEQ&expires=1673406047
 
+#EXTINF:-1 tvg-id="Sky" Globo HD tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Globo HD
+http://contentzord.gelderland.ga:2095/live/globo/chunks.m3u8?token=78ewq45qew12sdd
+
+
 #EXTINF:-1 tvg-id="Sky" Gloob 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Gloob 1
 http://marilurdrinha.b-cdn.net/live/gloob/chunks.m3u8?token=jcnC5zj2-YtU_jDyccl2cMO4VBbM70chTui6c6y-z3w&expires=1673465575
 
