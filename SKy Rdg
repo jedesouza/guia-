@@ -23,7 +23,7 @@ https://stream.ichibantv.ga:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Sky" Record HD tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Record HD
 http://contentzord.gelderland.ga:2095/live/record/chunks.m3u8?token=78ewq45qew12sdd
 
-#EXTINF:-1 tvg-id="Sky" Record  tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Record 
+#EXTINF:-1 tvg-id="Sky" Record HD tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Record 
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
 
 #EXTINF:-1 tvg-id="Sky" SBT 2 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", SBT 2
@@ -33,7 +33,7 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 http://contentzord.gelderland.ga:2095/live/band/chunks.m3u8?token=87811ad2784ew2d2
 
 #EXTINF:-1 tvg-id="Sky" animal-planet 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", animal-planet 1
-http://marilurdrinha.b-cdn.net/live/animalplanet/chunks.m3u8?token=BjGoaYHS9di4j1zLoc3aERDPVxxRPLMqkKWa0DKAkTs&expires=1673406862
+http://contentzord.gelderland.ga:2095/live/animalplanet/chunks.m3u8?token=87811ad2784ew2d2
 
 #EXTINF:-1 tvg-id="Sky" discoverykids 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", discoverykids 1
 http://marilurdrinha.b-cdn.net/live/discoverykids/chunks.m3u8?token=IpqGAmVoQd-ikS5yqxg4aIyj1I3MEALDhMq1D4whyEw&expires=1673465575
@@ -82,9 +82,6 @@ http://marilurdrinha.b-cdn.net/live/tntseries/chunks.m3u8?token=fQNI1sS0IzgUTX6y
 #EXTINF:-1 tvg-id="Sky" FX 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
  FX 1 
 http://marilurdrinha.b-cdn.net/live/tntseries/chunks.m3u8?token=fQNI1sS0IzgUTX6yps1UltZe9UFzl3BFPmkwAut9kA0&expires=1673466459
-
-#EXTINF:-1 tvg-id="Sky" viva 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", viva 1
-http://marilurdrinha.b-cdn.net/live/viva/chunks.m3u8?token=GDnva0Cnr3wryGGaCOfoWGDzkKt8DjXTZZYuERXQsAE&expires=1673467137
 
 #EXTINF:-1 tvg-id="Sky" viva  tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
  viva 
