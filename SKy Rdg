@@ -14,8 +14,8 @@ http://contentzord.gelderland.ga:2095/live/combate/chunks.m3u8?token=87811ad2784
 #EXTINF:-1 tvg-id="Sky" globo HD tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", globo 1 
 http://contentzord.gelderland.ga:2095/live/globo/chunks.m3u8?token=87811ad2784ew2d2
 
-#EXTINF:-1 tvg-id="Sky" Gloob 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Gloob 1
-https://embedsuper.ml/playlist/03a362f8432f9c98e7e0849d20281e66/94b29c917a66e5202206a71db6b31e78/master.txt?token=MzRNZGJDcWtqN09qd3hQRUpKeWkzQT09OjpsqmqicGq08wNlpj2nCfDD
+#EXTINF:-1 tvg-id="Sky" Desenhos tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Desenhos 
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1425579613.m3u8
 
 #EXTINF:-1 tvg-id="Sky" AniTV tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", AniTV 
 https://stream.ichibantv.ga:3764/hybrid/play.m3u8
