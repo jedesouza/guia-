@@ -6,7 +6,7 @@
 #EXTINF:-1 tvg-id="Sky" tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
 
 #EXTINF:-1 tvg-id="Sky" BBB tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", BBB
-http://contentzord.gelderland.ga:2095/live/bbbcam1/chunks.m3u8?token=78ewq45qew12sdd
+http://contentzord.gelderland.ga:2095/live/bbbcam1/chunks.m3u8?token=87811ad2784ew2d2
 
 #EXTINF:-1 tvg-id="Sky" combate tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", combate 
 http://contentzord.gelderland.ga:2095/live/combate/chunks.m3u8?token=87811ad2784ew2d2
