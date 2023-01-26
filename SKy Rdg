@@ -66,7 +66,7 @@ http://contentzord.gelderland.ga:2095/live/hbo2/chunks.m3u8?token=78ewq45qew12sd
 
 #EXTINF:-1 tvg-id="Sky" AXN 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
 AxN 1
-http://marilurdrinha.b-cdn.net/live/axn/chunks.m3u8?token=LVOQFyyW2HZHq4tQGlhABAR-edJzLyssAtmmS7pE2_E&expires=1673466459
+http://contentzord.gelderland.ga:2095/live/axn/chunks.m3u8?token=87811ad2784ew2d2
 
 #EXTINF:-1 tvg-id="Sky" AXN tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
 AxN
@@ -92,18 +92,3 @@ http://marilurdrinha.b-cdn.net/live/tntseries/chunks.m3u8?token=fQNI1sS0IzgUTX6y
  viva 
 http://bagainhead.b-cdn.net/live/viva/chunks.m3u8?token=y5qs4wV40yvJHSxL_R4uREC_0FCzY7NsSHR4ZKTVeXc&expires=1672627697
 
-#EXTINF:-1 tvg-id="Sky" combate 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
- combate 1
-http://marilurdrinha.b-cdn.net/live/combate/chunks.m3u8?token=gyAbU1cwXbv-DSbquQ3BTLBeEkkxEnVz5qJHVeKy1sY&expires=1673467259
-
-#EXTINF:-1 tvg-id="Sky" premiereclubes 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
- premiereclubes 1
-http://marilurdrinha.b-cdn.net/live/premiereclubes/chunks.m3u8?token=-gRXuYlb9phU3vFjbkbXAIyYcsjHShHygMG7TU7-auo&expires=1673467259
-
-#EXTINF:-1 tvg-id="Sky" sportv 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
- sportv 1
-http://marilurdrinha.b-cdn.net/live/sportv/chunks.m3u8?token=VUopTp50SxfVBy-F3KMwBanrt4TJLb9hooXjGr8-RrY&expires=1673467259
-
-#EXTINF:-1 tvg-id="Sky" espn 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
- espn 1 
-http://marilurdrinha.b-cdn.net/live/espn/chunks.m3u8?token=_Ey0NlhjoxsUKeZJJ0mqrVM9-CwYeEE8JiRaDK8LY30&expires=1673467259
