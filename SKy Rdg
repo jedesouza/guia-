@@ -73,7 +73,7 @@ AxN
 http://bagainhead.b-cdn.net/live/axn/chunks.m3u8?token=-9DEBk1zE5aHvYZLVc99SuDEbMipXqfTPNQb9jQ6x5E&expires=1672839742
 
 #EXTINF:-1 tvg-id="Sky" discoveryturbo 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", discoveryturbo 1
-http://marilurdrinha.b-cdn.net/live/discoveryturbo/chunks.m3u8?token=BHjEctCpLOZyYZF8FdXQ_2cagow7YU2cZH1xMp96a6U&expires=1673465913
+http://contentzord.gelderland.ga:2095/live/discoveryturbo/chunks.m3u8?token=87811ad2784ew2d2
 
 #EXTINF:-1 tvg-id="Sky" /discoverychannel 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",/discoverychannel 1
 http://marilurdrinha.b-cdn.net/live/discoverychannel/chunks.m3u8?token=cT9ti0hXb3y8CrqJCTmzFIpowQWzaq5mYqQDnOgteWA&expires=1673465913
