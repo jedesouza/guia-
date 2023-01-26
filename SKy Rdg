@@ -41,7 +41,7 @@ http://contentzord.gelderland.ga:2095/live/band/chunks.m3u8?token=87811ad2784ew2
 http://contentzord.gelderland.ga:2095/live/animalplanet/chunks.m3u8?token=87811ad2784ew2d2
 
 #EXTINF:-1 tvg-id="Sky" discoverykids 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", discoverykids 1
-http://marilurdrinha.b-cdn.net/live/discoverykids/chunks.m3u8?token=IpqGAmVoQd-ikS5yqxg4aIyj1I3MEALDhMq1D4whyEw&expires=1673465575
+http://contentzord.gelderland.ga:2095/live/discoverykids/chunks.m3u8?token=87811ad2784ew2d2
 
 #EXTINF:-1 tvg-id="Sky" space 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", space 1 
 http://marilurdrinha.b-cdn.net/live/space/chunks.m3u8?token=5aUPDrRRox8KX-IrtLkNtj_-XwyhAYtd4CdUkZT-W0s&expires=1673467608
