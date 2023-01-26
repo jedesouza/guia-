@@ -53,7 +53,7 @@ http://contentzord.gelderland.ga:2095/live/telecinepremium/chunks.m3u8?token=878
 http://contentzord.gelderland.ga:2095/live/universalchannel/chunks.m3u8?token=78ewq45qew12sdd
 
 #EXTINF:-1 tvg-id="Sky" telecineaction 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",telecineaction 1
-http://marilurdrinha.b-cdn.net/live/telecineaction/chunks.m3u8?token=haooqZ4ImZbaimGFeEL15SUgVtvjFYhq8epLgy1YuiM&expires=1673467608
+http://contentzord.gelderland.ga:2095/live/telecineaction/chunks.m3u8?token=87811ad2784ew2d2
 
 #EXTINF:-1 tvg-id="Sky" telecine pipoca   tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",telecine pipoca 
 http://contentzord.gelderland.ga:2095/live/telecinepipoca/chunks.m3u8?token=78ewq45qew12sdd
