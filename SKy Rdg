@@ -86,7 +86,7 @@ http://contentzord.gelderland.ga:2095/live/tntseries/chunks.m3u8?token=87811ad27
 
 #EXTINF:-1 tvg-id="Sky" FX 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
  FX 1 
-http://marilurdrinha.b-cdn.net/live/tntseries/chunks.m3u8?token=fQNI1sS0IzgUTX6yps1UltZe9UFzl3BFPmkwAut9kA0&expires=1673466459
+http://contentzord.gelderland.ga:2095/live/fx/chunks.m3u8?token=87811ad2784ew2d2
 
 #EXTINF:-1 tvg-id="Sky" viva  tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
  viva 
