@@ -79,7 +79,7 @@ http://contentzord.gelderland.ga:2095/live/discoveryturbo/chunks.m3u8?token=8781
 http://contentzord.gelderland.ga:2095/live/discoverychannel/chunks.m3u8?token=87811ad2784ew2d2
 
 #EXTINF:-1 tvg-id="Sky" history 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", history 1 
-http://marilurdrinha.b-cdn.net/live/history/chunks.m3u8?token=SzJoUGkxPoFi111jjSGTGoKvacocMuyUT2VAf_X-WJs&expires=1673465913
+http://contentzord.gelderland.ga:2095/live/history/chunks.m3u8?token=87811ad2784ew2d2
 
 #EXTINF:-1 tvg-id="Sky" TNT series 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", series 1
 http://marilurdrinha.b-cdn.net/live/tntseries/chunks.m3u8?token=fQNI1sS0IzgUTX6yps1UltZe9UFzl3BFPmkwAut9kA0&expires=1673466459
