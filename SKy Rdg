@@ -20,7 +20,7 @@ http://contentzord.gelderland.ga:2095/live/combate/chunks.m3u8?token=87811ad2784
 http://contentzord.gelderland.ga:2095/live/globo/chunks.m3u8?token=87811ad2784ew2d2
 
 #EXTINF:-1 tvg-id="Sky" Desenhos tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Desenhos 
-https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1425579613.m3u8
+http://contentzord.gelderland.ga:2095/live/gloob/chunks.m3u8?token=87811ad2784ew2d2
 
 #EXTINF:-1 tvg-id="Sky" AniTV tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", AniTV 
 https://stream.ichibantv.ga:3764/hybrid/play.m3u8
