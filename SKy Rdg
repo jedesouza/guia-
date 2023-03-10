@@ -35,7 +35,7 @@ https://caikron.com.br:19360/criciuma/criciuma.m3u8
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sky" Band 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Band 1
-http://contentzord.gelderland.ga:2095/live/band/chunks.m3u8?token=87811ad2784ew2d2
+http://etc.meshmixer.cf:2095/live/band/chunks.m3u8?token=1678573978_a5e3452b348dff492e71908367b7a49356ca442c
 
 #EXTINF:-1 tvg-id="Sky" animal-planet 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", animal-planet 1
 http://contentzord.gelderland.ga:2095/live/animalplanet/chunks.m3u8?token=87811ad2784ew2d2
