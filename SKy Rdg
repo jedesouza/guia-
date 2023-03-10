@@ -17,7 +17,7 @@ http://etc.meshmixer.cf:2095/live/bbbcam3/chunks.m3u8?token=1678573099_92425fed0
 http://etc.meshmixer.cf:2095/live/combate/chunks.m3u8?token=1678573845_ebb14d662c302153a1e84869ec599988a45128a0
 
 #EXTINF:-1 tvg-id="Sky" globo HD tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", globo 1 
-http://contentzord.gelderland.ga:2095/live/globo/chunks.m3u8?token=87811ad2784ew2d2
+http://etc.meshmixer.cf:2095/live/globo/chunks.m3u8?token=1678573978_90466208ab63e0ab14b1a6df6cd39a6828823f0c
 
 #EXTINF:-1 tvg-id="Sky" Desenhos tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Desenhos 
 http://contentzord.gelderland.ga:2095/live/gloob/chunks.m3u8?token=87811ad2784ew2d2
