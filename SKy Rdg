@@ -11,7 +11,7 @@
 http://contentzord.gelderland.ga:2095/live/bbbcam1/chunks.m3u8?token=87811ad2784ew2d2
 
 #EXTINF:-1 tvg-id="Sky" BBB câmeras tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", BBB câmeras 
-http://contentzord.gelderland.ga:2095/live/bbbcam3/chunks.m3u8?token=87811ad2784ew2d2
+http://etc.meshmixer.cf:2095/live/bbbcam3/chunks.m3u8?token=1678573099_92425fed0568fe4d5964ba314688662852d78909
 
 #EXTINF:-1 tvg-id="Sky" combate tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", combate 
 http://contentzord.gelderland.ga:2095/live/combate/chunks.m3u8?token=87811ad2784ew2d2
