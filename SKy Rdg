@@ -44,7 +44,7 @@ http://etc.meshmixer.cf:2095/live/animalplanet/chunks.m3u8?token=1678574507_6208
 http://etc.meshmixer.cf:2095/live/discoverychannel/chunks.m3u8?token=1678574507_5fdb3c5aa6e1110ffe80fe02b49d895513e8dd18
 
 #EXTINF:-1 tvg-id="Sky" space 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", space 1 
-http://contentzord.gelderland.ga:2095/live/space/chunks.m3u8?token=87811ad2784ew2d2
+http://etc.meshmixer.cf:2095/live/space/chunks.m3u8?token=1678574849_6ea61ed0a603f69fee0446b4186228523d07a6b1
 
 #EXTINF:-1 tvg-id="Sky" telecinepremium 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",telecinepremium 1
 http://contentzord.gelderland.ga:2095/live/telecinepremium/chunks.m3u8?token=87811ad2784ew2d2
