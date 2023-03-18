@@ -11,22 +11,22 @@
 http://etc.meshmixer.cf:2095/live/bbbcam1/chunks.m3u8?token=1679207811_3b5a3e263031a4294a25efc07b27703eaf572708
 
 #EXTINF:-1 tvg-id="Sky" BBB câmeras tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", BBB câmeras 
-http://etc.meshmixer.cf:2095/live/bbbcam3/chunks.m3u8?token=1678573099_92425fed0568fe4d5964ba314688662852d78909
+http://etc.meshmixer.cf:2095/live/bbbcam3/chunks.m3u8?token=1679208209_eb18d7792d829127477fdb1f6cc1dd448732a9b2
 
 #EXTINF:-1 tvg-id="Sky" combate tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", combate 
-http://etc.meshmixer.cf:2095/live/combate/chunks.m3u8?token=1678573845_ebb14d662c302153a1e84869ec599988a45128a0
+http://etc.meshmixer.cf:2095/live/combate/chunks.m3u8?token=1679208359_7cacb28860abdf768269c5abd56258d888bcd531
 
 #EXTINF:-1 tvg-id="Sky" globo HD tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", globo 1 
-http://etc.meshmixer.cf:2095/live/globo/chunks.m3u8?token=1678573978_90466208ab63e0ab14b1a6df6cd39a6828823f0c
+http://etc.meshmixer.cf:2095/live/globo/chunks.m3u8?token=1679208460_ed55485eb74d464a0205137bb776559012417b09
 
 #EXTINF:-1 tvg-id="Sky" Desenhos tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Desenhos 
-http://etc.meshmixer.cf:2095/live/gloob/chunks.m3u8?token=1678575074_a5ee1469bb8b2ca3d45417af396c21e378f1d1bd
+http://etc.meshmixer.cf:2095/live/gloob/chunks.m3u8?token=1679208627_115feef917ec1365c0ad53084bb9812f56cab476
 
 #EXTINF:-1 tvg-id="Sky" AniTV tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", AniTV 
 https://stream.ichibantv.ga:3764/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Sky" Record HD tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Record HD
-http://contentzord.gelderland.ga:2095/live/record/chunks.m3u8?token=78ewq45qew12sdd
+http://etc.meshmixer.cf:2095/live/record/chunks.m3u8?token=1679208716_41f9a4c9141fe0c83479d00439d6eef2c9866a7d
 
 #EXTINF:-1 tvg-id="Sky" Record HD tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Record 
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
@@ -35,60 +35,13 @@ https://caikron.com.br:19360/criciuma/criciuma.m3u8
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sky" Band 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Band 1
-http://etc.meshmixer.cf:2095/live/band/chunks.m3u8?token=1678573978_a5e3452b348dff492e71908367b7a49356ca442c
+http://etc.meshmixer.cf:2095/live/band/chunks.m3u8?token=1679208716_3c5190657c7e076f391169934e8a0c2c9f19f127
 
 #EXTINF:-1 tvg-id="Sky" animal-planet 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", animal-planet 1
-http://etc.meshmixer.cf:2095/live/animalplanet/chunks.m3u8?token=1678574507_6208def37a9b16030e80267f0658bef3b69c0d84
+http://etc.meshmixer.cf:2095/live/animalplanet/chunks.m3u8?token=1679208937_2824fc2223eab9e57db8f4d3d8cea7672c515b9d
 
 #EXTINF:-1 tvg-id="Sky" discoverykids 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", discoverykids 1
-http://etc.meshmixer.cf:2095/live/discoverychannel/chunks.m3u8?token=1678574507_5fdb3c5aa6e1110ffe80fe02b49d895513e8dd18
+http://etc.meshmixer.cf:2095/live/discoverykids/chunks.m3u8?token=1679209018_78f931c875d0caf7aa519e3ad95103a228fab98c
 
 #EXTINF:-1 tvg-id="Sky" space 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", space 1 
-http://etc.meshmixer.cf:2095/live/space/chunks.m3u8?token=1678574849_6ea61ed0a603f69fee0446b4186228523d07a6b1
-
-#EXTINF:-1 tvg-id="Sky" telecinepremium 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",telecinepremium 1
-http://contentzord.gelderland.ga:2095/live/telecinepremium/chunks.m3u8?token=87811ad2784ew2d2
-
-#EXTINF:-1 tvg-id="Sky" Studio universal  tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Studio universal 
-http://contentzord.gelderland.ga:2095/live/universalchannel/chunks.m3u8?token=78ewq45qew12sdd
-
-#EXTINF:-1 tvg-id="Sky" telecineaction 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",telecineaction 1
-http://contentzord.gelderland.ga:2095/live/telecineaction/chunks.m3u8?token=87811ad2784ew2d2
-
-#EXTINF:-1 tvg-id="Sky" telecine pipoca   tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",telecine pipoca 
-http://contentzord.gelderland.ga:2095/live/telecinepipoca/chunks.m3u8?token=78ewq45qew12sdd
-
-#EXTINF:-1 tvg-id="Sky" Mega pix tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Mega pix 
-http://contentzord.gelderland.ga:2095/live/megapix/chunks.m3u8?token=78ewq45qew12sdd
-
-#EXTINF:-1 tvg-id="Sky" HBO 2  tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", HBO 2
-http://contentzord.gelderland.ga:2095/live/hbo2/chunks.m3u8?token=78ewq45qew12sdd
-
-#EXTINF:-1 tvg-id="Sky" AXN 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
-AxN 1
-http://contentzord.gelderland.ga:2095/live/axn/chunks.m3u8?token=87811ad2784ew2d2
-
-#EXTINF:-1 tvg-id="Sky" AXN tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
-AxN
-http://bagainhead.b-cdn.net/live/axn/chunks.m3u8?token=-9DEBk1zE5aHvYZLVc99SuDEbMipXqfTPNQb9jQ6x5E&expires=1672839742
-
-#EXTINF:-1 tvg-id="Sky" discoveryturbo 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", discoveryturbo 1
-http://contentzord.gelderland.ga:2095/live/discoveryturbo/chunks.m3u8?token=87811ad2784ew2d2
-
-#EXTINF:-1 tvg-id="Sky" /discoverychannel 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",/discoverychannel 1
-http://contentzord.gelderland.ga:2095/live/discoverychannel/chunks.m3u8?token=87811ad2784ew2d2
-
-#EXTINF:-1 tvg-id="Sky" history 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", history 1 
-http://contentzord.gelderland.ga:2095/live/history/chunks.m3u8?token=87811ad2784ew2d2
-
-#EXTINF:-1 tvg-id="Sky" TNT series 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", series 1
-http://contentzord.gelderland.ga:2095/live/tntseries/chunks.m3u8?token=87811ad2784ew2d2
-
-#EXTINF:-1 tvg-id="Sky" FX 1 tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
- FX 1 
-http://contentzord.gelderland.ga:2095/live/fx/chunks.m3u8?token=87811ad2784ew2d2
-
-#EXTINF:-1 tvg-id="Sky" viva  tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky",
- viva 
-http://bagainhead.b-cdn.net/live/viva/chunks.m3u8?token=y5qs4wV40yvJHSxL_R4uREC_0FCzY7NsSHR4ZKTVeXc&expires=1672627697
-
+http://etc.meshmixer.cf:2095/live/space/chunks.m3u8?token=1679209609_0f35a4d29ab3ae3b826a145c5eb7044bcd1f4a4a
