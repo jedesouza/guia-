@@ -8,7 +8,7 @@
 
 
 #EXTINF:-1 tvg-id="Sky" BBB tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", BBB
-http://etc.meshmixer.cf:2095/live/bbbcam1/chunks.m3u8?token=1679207811_3b5a3e263031a4294a25efc07b27703eaf572708
+http://etc.meshmixer.cf:2095/live/bbbcam1/chunks.m3u8?token=1679540404_416dbba03e9d549a4d762e2b79ed62b6852e0934
 
 #EXTINF:-1 tvg-id="Sky" BBB câmeras tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", BBB câmeras 
 http://etc.meshmixer.cf:2095/live/bbbcam3/chunks.m3u8?token=1679208209_eb18d7792d829127477fdb1f6cc1dd448732a9b2
