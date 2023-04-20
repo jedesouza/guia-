@@ -11,12 +11,12 @@
 http://fadder.eletrinho.shop:2095/live/bbbcam1/chunks.m3u8?token=1682100415_5a98bd9c7511952683ce7aeeb6fbe3470112b1bb
 
 #EXTINF:-1 tvg-id="Sky" BBB câmeras tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", BBB câmeras 
-http://etc.meshmixer.cf:2095/live/bbbcam3/chunks.m3u8?token=1679208209_eb18d7792d829127477fdb1f6cc1dd448732a9b2
-
-
+http://fadder.eletrinho.shop:2095/live/bbbcam3/chunks.m3u8?token=1682100415_741f60a1f7df2dacf907793179bf3658bc56febe
 
 #EXTINF:-1 tvg-id="Sky" combate tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", combate 
 http://etc.meshmixer.cf:2095/live/combate/chunks.m3u8?token=1679208359_7cacb28860abdf768269c5abd56258d888bcd531
+
+
 
 #EXTINF:-1 tvg-id="Sky" globo HD tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", globo 1 
 http://etc.meshmixer.cf:2095/live/globo/chunks.m3u8?token=1679540123_f83fa3ebab626538aa8562d3353401d91fdd29ab
