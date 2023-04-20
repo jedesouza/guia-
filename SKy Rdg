@@ -14,12 +14,12 @@ http://fadder.eletrinho.shop:2095/live/bbbcam1/chunks.m3u8?token=1682100415_5a98
 http://fadder.eletrinho.shop:2095/live/bbbcam3/chunks.m3u8?token=1682100415_741f60a1f7df2dacf907793179bf3658bc56febe
 
 #EXTINF:-1 tvg-id="Sky" combate tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", combate 
-http://etc.meshmixer.cf:2095/live/combate/chunks.m3u8?token=1679208359_7cacb28860abdf768269c5abd56258d888bcd531
-
-
+http://fadder.eletrinho.shop:2095/live/combate/chunks.m3u8?token=1682101409_efdbc55690be066e685634d76a0e914a084b44c2
 
 #EXTINF:-1 tvg-id="Sky" globo HD tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", globo 1 
 http://etc.meshmixer.cf:2095/live/globo/chunks.m3u8?token=1679540123_f83fa3ebab626538aa8562d3353401d91fdd29ab
+
+
 
 #EXTINF:-1 tvg-id="Sky" Desenhos tvg-logo="https://t2.tudocdn.net/498170?w=786&h=472" group-title="sky", Desenhos 
 http://etc.meshmixer.cf:2095/live/gloob/chunks.m3u8?token=1679208627_115feef917ec1365c0ad53084bb9812f56cab476
